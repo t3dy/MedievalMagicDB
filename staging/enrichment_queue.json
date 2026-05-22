@@ -1,0 +1,1334 @@
+[
+  {
+    "kind": "dictionary entry",
+    "key": "ars_notoria",
+    "label": "Ars Notoria",
+    "mention_count": 2017,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 21070
+  },
+  {
+    "kind": "text summary",
+    "key": "ars_notoria",
+    "label": "Ars Notoria",
+    "mention_count": 2017,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 20870
+  },
+  {
+    "kind": "biography",
+    "key": "solomon",
+    "label": "Solomon",
+    "mention_count": 982,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 10520
+  },
+  {
+    "kind": "text summary",
+    "key": "picatrix",
+    "label": "Picatrix",
+    "mention_count": 959,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 10290
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "witchcraft",
+    "label": "Witchcraft",
+    "mention_count": 842,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 9320
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "necromancy",
+    "label": "Necromancy",
+    "mention_count": 746,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 8360
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "divination",
+    "label": "Divination",
+    "mention_count": 679,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 7690
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "experimental_science",
+    "label": "Experimental Science",
+    "mention_count": 573,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 6630
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "charms",
+    "label": "Charms",
+    "mention_count": 451,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 5410
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "talismans",
+    "label": "Talismans",
+    "mention_count": 371,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 4610
+  },
+  {
+    "kind": "biography",
+    "key": "albertus_magnus",
+    "label": "Albertus Magnus",
+    "mention_count": 375,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 4450
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "notae",
+    "label": "Notae",
+    "mention_count": 344,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 4340
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "learned_magic",
+    "label": "Learned Magic",
+    "mention_count": 344,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 4340
+  },
+  {
+    "kind": "biography",
+    "key": "john_of_morigny",
+    "label": "John of Morigny",
+    "mention_count": 346,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 4160
+  },
+  {
+    "kind": "text summary",
+    "key": "speculum_astronomiae",
+    "label": "Speculum astronomiae",
+    "mention_count": 317,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 3870
+  },
+  {
+    "kind": "biography",
+    "key": "roger_bacon",
+    "label": "Roger Bacon",
+    "mention_count": 310,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 3800
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "amulets",
+    "label": "Amulets",
+    "mention_count": 258,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 3480
+  },
+  {
+    "kind": "biography",
+    "key": "claire_fanger",
+    "label": "Claire Fanger",
+    "mention_count": 265,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 3350
+  },
+  {
+    "kind": "biography",
+    "key": "william_of_auvergne",
+    "label": "William of Auvergne",
+    "mention_count": 264,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 3340
+  },
+  {
+    "kind": "text summary",
+    "key": "liber_razielis",
+    "label": "Liber Razielis",
+    "mention_count": 254,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 3240
+  },
+  {
+    "kind": "biography",
+    "key": "richard_kieckhefer",
+    "label": "Richard Kieckhefer",
+    "mention_count": 253,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 3230
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "confession",
+    "label": "Confession",
+    "mention_count": 232,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 3220
+  },
+  {
+    "kind": "text summary",
+    "key": "de_imaginibus",
+    "label": "De imaginibus",
+    "mention_count": 223,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 2930
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "geomancy",
+    "label": "Geomancy",
+    "mention_count": 162,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 2520
+  },
+  {
+    "kind": "biography",
+    "key": "thomas_aquinas",
+    "label": "Thomas Aquinas",
+    "mention_count": 176,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 2460
+  },
+  {
+    "kind": "biography",
+    "key": "charles_burnett",
+    "label": "Charles Burnett",
+    "mention_count": 158,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 2280
+  },
+  {
+    "kind": "text summary",
+    "key": "forbidden_rites",
+    "label": "Forbidden Rites",
+    "mention_count": 146,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 2160
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "exorcism",
+    "label": "Exorcism",
+    "mention_count": 125,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 2150
+  },
+  {
+    "kind": "text summary",
+    "key": "sworn_book_of_honorius",
+    "label": "Sworn Book of Honorius",
+    "mention_count": 136,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 2060
+  },
+  {
+    "kind": "biography",
+    "key": "michael_scot",
+    "label": "Michael Scot",
+    "mention_count": 135,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 2050
+  },
+  {
+    "kind": "biography",
+    "key": "sophie_page",
+    "label": "Sophie Page",
+    "mention_count": 125,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1950
+  },
+  {
+    "kind": "biography",
+    "key": "frank_klaassen",
+    "label": "Frank Klaassen",
+    "mention_count": 124,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1940
+  },
+  {
+    "kind": "text summary",
+    "key": "de_radiis",
+    "label": "De radiis",
+    "mention_count": 124,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1940
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "chiromancy",
+    "label": "Chiromancy",
+    "mention_count": 104,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1940
+  },
+  {
+    "kind": "biography",
+    "key": "raziel",
+    "label": "Raziel",
+    "mention_count": 111,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1810
+  },
+  {
+    "kind": "biography",
+    "key": "jean_patrice_boudet",
+    "label": "Jean-Patrice Boudet",
+    "mention_count": 107,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1770
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "demonology",
+    "label": "Demonology",
+    "mention_count": 84,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1740
+  },
+  {
+    "kind": "biography",
+    "key": "david_pingree",
+    "label": "David Pingree",
+    "mention_count": 103,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1730
+  },
+  {
+    "kind": "biography",
+    "key": "adelard_of_bath",
+    "label": "Adelard of Bath",
+    "mention_count": 103,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1730
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "suffumigation",
+    "label": "Suffumigation",
+    "mention_count": 72,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1620
+  },
+  {
+    "kind": "biography",
+    "key": "nicolas_weill_parot",
+    "label": "Nicolas Weill-Parot",
+    "mention_count": 90,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1600
+  },
+  {
+    "kind": "text summary",
+    "key": "de_universo_william_auvergne",
+    "label": "De universo",
+    "mention_count": 78,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1480
+  },
+  {
+    "kind": "biography",
+    "key": "al_kindi",
+    "label": "al-Kindi",
+    "mention_count": 77,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1470
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "pyromancy",
+    "label": "Pyromancy",
+    "mention_count": 54,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1440
+  },
+  {
+    "kind": "biography",
+    "key": "lynn_thorndike",
+    "label": "Lynn Thorndike",
+    "mention_count": 73,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1430
+  },
+  {
+    "kind": "biography",
+    "key": "thabit_ibn_qurra",
+    "label": "Thabit ibn Qurra",
+    "mention_count": 70,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1400
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "clerical_underworld",
+    "label": "Clerical Underworld",
+    "mention_count": 50,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1400
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "secret_of_secrets",
+    "label": "Secret of Secrets",
+    "mention_count": 49,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1390
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "occult_properties",
+    "label": "Occult Properties",
+    "mention_count": 48,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1380
+  },
+  {
+    "kind": "biography",
+    "key": "michael_d_bailey",
+    "label": "Michael D. Bailey",
+    "mention_count": 65,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1350
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "hydromancy",
+    "label": "Hydromancy",
+    "mention_count": 45,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1350
+  },
+  {
+    "kind": "biography",
+    "key": "isidore_of_seville",
+    "label": "Isidore of Seville",
+    "mention_count": 63,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1330
+  },
+  {
+    "kind": "biography",
+    "key": "theysolius",
+    "label": "Theysolius",
+    "mention_count": 59,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1290
+  },
+  {
+    "kind": "text summary",
+    "key": "liber_theysolius",
+    "label": "Liber Theysolius",
+    "mention_count": 55,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1250
+  },
+  {
+    "kind": "biography",
+    "key": "catherine_rider",
+    "label": "Catherine Rider",
+    "mention_count": 54,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1240
+  },
+  {
+    "kind": "text summary",
+    "key": "secretum_secretorum",
+    "label": "Secretum Secretorum",
+    "mention_count": 53,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1230
+  },
+  {
+    "kind": "biography",
+    "key": "johannes_hartlieb",
+    "label": "Johannes Hartlieb",
+    "mention_count": 53,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1230
+  },
+  {
+    "kind": "biography",
+    "key": "katelyn_mesler",
+    "label": "Katelyn Mesler",
+    "mention_count": 51,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1210
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "familiar_spirit",
+    "label": "Familiar Spirit",
+    "mention_count": 25,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1150
+  },
+  {
+    "kind": "biography",
+    "key": "cecco_d_ascoli",
+    "label": "Cecco d'Ascoli",
+    "mention_count": 44,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1140
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "natural_powers",
+    "label": "Natural Powers",
+    "mention_count": 24,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1140
+  },
+  {
+    "kind": "biography",
+    "key": "paola_zambelli",
+    "label": "Paola Zambelli",
+    "mention_count": 43,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1130
+  },
+  {
+    "kind": "biography",
+    "key": "jan_veenstra",
+    "label": "Jan R. Veenstra",
+    "mention_count": 41,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1110
+  },
+  {
+    "kind": "biography",
+    "key": "arnald_of_villanova",
+    "label": "Arnald of Villanova",
+    "mention_count": 37,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1070
+  },
+  {
+    "kind": "text summary",
+    "key": "unlocked_books",
+    "label": "Unlocked Books",
+    "mention_count": 36,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1060
+  },
+  {
+    "kind": "biography",
+    "key": "bernard_silvester",
+    "label": "Bernard Silvester",
+    "mention_count": 34,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1040
+  },
+  {
+    "kind": "biography",
+    "key": "julien_veronese",
+    "label": "Julien Veronese",
+    "mention_count": 32,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 1020
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "ritual_purity",
+    "label": "Ritual Purity",
+    "mention_count": 11,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1010
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "demonic_pact",
+    "label": "Demonic Pact",
+    "mention_count": 10,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 1000
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "sortilege",
+    "label": "Sortilege",
+    "mention_count": 8,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 980
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "voces_magicae",
+    "label": "Voces Magicae",
+    "mention_count": 7,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 970
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "celestial_influence",
+    "label": "Celestial Influence",
+    "mention_count": 7,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 970
+  },
+  {
+    "kind": "biography",
+    "key": "nicole_oresme",
+    "label": "Nicole Oresme",
+    "mention_count": 24,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 940
+  },
+  {
+    "kind": "text summary",
+    "key": "de_mineralibus",
+    "label": "De mineralibus",
+    "mention_count": 24,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 940
+  },
+  {
+    "kind": "biography",
+    "key": "apollonius_of_tyana",
+    "label": "Apollonius of Tyana",
+    "mention_count": 24,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 940
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "angelic_invocation",
+    "label": "Angelic Invocation",
+    "mention_count": 3,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 930
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "magic_and_cognition",
+    "label": "Magic and Cognition",
+    "mention_count": 2,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 920
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "mathematical_arts",
+    "label": "Mathematical Arts",
+    "mention_count": 1,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 910
+  },
+  {
+    "kind": "biography",
+    "key": "lea_olsan",
+    "label": "Lea T. Olsan",
+    "mention_count": 20,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "university_condemnation",
+    "label": "University Condemnation",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "superstitio",
+    "label": "Superstitio",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "solomonic_magic",
+    "label": "Solomonic Magic",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "secret_names",
+    "label": "Secret Names",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "scholastic_classification",
+    "label": "Scholastic Classification of Magic",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "ritual_diagrams",
+    "label": "Ritual Diagrams",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "pseudepigraphy",
+    "label": "Pseudepigraphy",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "prohibited_arts",
+    "label": "Prohibited Arts",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "planetary_spirits",
+    "label": "Planetary Spirits",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "picatrix_tradition",
+    "label": "Picatrix Tradition",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "pastoral_care_and_magic",
+    "label": "Pastoral Care and Magic",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "nigromantia",
+    "label": "Nigromantia",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "medieval_magic",
+    "label": "Medieval Magic",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "manuscript_miscellany",
+    "label": "Manuscript Miscellany",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "magical_alphabets",
+    "label": "Magical Alphabets",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "licit_and_illicit_knowledge",
+    "label": "Licit and Illicit Knowledge",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "grimoire_corpus",
+    "label": "Grimoire Corpus",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "grimoire",
+    "label": "Grimoire",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "experimenta",
+    "label": "Experimenta",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "condemned_arts",
+    "label": "Condemned Arts",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "characters_and_seals",
+    "label": "Characters and Seals",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "dictionary entry",
+    "key": "astral_image_magic",
+    "label": "Astral Image Magic",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 900,
+    "priority_score": 900
+  },
+  {
+    "kind": "text summary",
+    "key": "magic_in_medieval_manuscripts",
+    "label": "Magic in Medieval Manuscripts",
+    "mention_count": 18,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 880
+  },
+  {
+    "kind": "biography",
+    "key": "valerie_flint",
+    "label": "Valerie Flint",
+    "mention_count": 17,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 870
+  },
+  {
+    "kind": "text summary",
+    "key": "munich_manual",
+    "label": "Munich Manual",
+    "mention_count": 16,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 860
+  },
+  {
+    "kind": "biography",
+    "key": "don_c_skemer",
+    "label": "Don C. Skemer",
+    "mention_count": 16,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 860
+  },
+  {
+    "kind": "text summary",
+    "key": "etymologiae",
+    "label": "Etymologiae",
+    "mention_count": 14,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 840
+  },
+  {
+    "kind": "biography",
+    "key": "honorius_of_thebes",
+    "label": "Honorius of Thebes",
+    "mention_count": 13,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 830
+  },
+  {
+    "kind": "text summary",
+    "key": "hazards_of_the_dark_arts",
+    "label": "Hazards of the Dark Arts",
+    "mention_count": 11,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 810
+  },
+  {
+    "kind": "biography",
+    "key": "beatice_delaurenti",
+    "label": "Béatrice Delaurenti",
+    "mention_count": 11,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 810
+  },
+  {
+    "kind": "text summary",
+    "key": "de_occultis_operibus_naturae",
+    "label": "De occultis operibus naturae",
+    "mention_count": 10,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 800
+  },
+  {
+    "kind": "text summary",
+    "key": "liber_experimentorum",
+    "label": "Liber experimentorum",
+    "mention_count": 8,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 780
+  },
+  {
+    "kind": "biography",
+    "key": "robert_mathiesen",
+    "label": "Robert Mathiesen",
+    "mention_count": 7,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 770
+  },
+  {
+    "kind": "biography",
+    "key": "peter_abelard",
+    "label": "Peter Abelard",
+    "mention_count": 7,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 770
+  },
+  {
+    "kind": "biography",
+    "key": "benedek_lang",
+    "label": "Benedek Lang",
+    "mention_count": 5,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 750
+  },
+  {
+    "kind": "biography",
+    "key": "ulrich_molitor",
+    "label": "Ulrich Molitor",
+    "mention_count": 4,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 740
+  },
+  {
+    "kind": "biography",
+    "key": "peter_abano",
+    "label": "Pietro d'Abano",
+    "mention_count": 3,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 730
+  },
+  {
+    "kind": "biography",
+    "key": "abu_mashar",
+    "label": "Abu Ma'shar",
+    "mention_count": 3,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 730
+  },
+  {
+    "kind": "text summary",
+    "key": "buch_aller_verbotenen_kunst",
+    "label": "Buch aller verbotenen Kunst",
+    "mention_count": 2,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 720
+  },
+  {
+    "kind": "text summary",
+    "key": "opus_majus",
+    "label": "Opus Majus",
+    "mention_count": 1,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 710
+  },
+  {
+    "kind": "text summary",
+    "key": "transformations_of_magic",
+    "label": "The Transformations of Magic",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "testament_of_solomon",
+    "label": "Testament of Solomon",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "sixth_and_seventh_books_of_moses",
+    "label": "Sixth and Seventh Books of Moses",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "magic_in_the_cloister",
+    "label": "Magic in the Cloister",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "liber_visionum",
+    "label": "Liber visionum",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "liber_de_angelis",
+    "label": "Liber de angelis",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "liber_lunae",
+    "label": "Liber Lunae",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "liber_juratus_honorii",
+    "label": "Liber Juratus Honorii",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "lemegeton",
+    "label": "Lemegeton",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "biography",
+    "key": "john_of_salisbury",
+    "label": "John of Salisbury",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "invoking_angels",
+    "label": "Invoking Angels",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "hygromanteia",
+    "label": "Hygromanteia",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "biography",
+    "key": "hugh_of_saint_victor",
+    "label": "Hugh of Saint-Victor",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "heptameron",
+    "label": "Heptameron",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "grimorium_verum",
+    "label": "Grimorium Verum",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "flowers_of_heavenly_teaching",
+    "label": "Flowers of Heavenly Teaching",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "biography",
+    "key": "florence_chave_mahir",
+    "label": "Florence Chave-Mahir",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "de_divinatione_daemonum",
+    "label": "De divinatione daemonum",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "biography",
+    "key": "david_porreca",
+    "label": "David Porreca",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "biography",
+    "key": "dan_attrell",
+    "label": "Dan Attrell",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "clavicula_salomonis",
+    "label": "Clavicula Salomonis",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "book_of_soyga",
+    "label": "Book of Soyga",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "book_of_oberon",
+    "label": "Book of Oberon",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "biography",
+    "key": "augustine_of_hippo",
+    "label": "Augustine of Hippo",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "ars_paulina",
+    "label": "Ars Paulina",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "ars_goetia",
+    "label": "Ars Goetia",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "ars_almadel",
+    "label": "Ars Almadel",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "biography",
+    "key": "agostino_paravicini_bagliani",
+    "label": "Agostino Paravicini Bagliani",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  },
+  {
+    "kind": "text summary",
+    "key": "history_magic_experimental_science",
+    "label": "A History of Magic and Experimental Science",
+    "mention_count": 0,
+    "existing_words": 0,
+    "target_min_words": 700,
+    "priority_score": 700
+  }
+]

@@ -1,0 +1,3670 @@
+{
+  "scholars": [
+    {
+      "label": "Claire Fanger",
+      "count": 265,
+      "source_count": 17,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 65
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 47
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 29
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 24
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 22
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 21
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 18
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "label": "Richard Kieckhefer",
+      "count": 253,
+      "source_count": 18,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 91
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 43
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 18
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 17
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 15
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "label": "Charles Burnett",
+      "count": 158,
+      "source_count": 13,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 57
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 25
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 22
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 10
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "label": "Sophie Page",
+      "count": 125,
+      "source_count": 15,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 40
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 17
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 14
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "label": "Frank Klaassen",
+      "count": 124,
+      "source_count": 13,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 31
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 16
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 10
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "label": "Jean-Patrice Boudet",
+      "count": 107,
+      "source_count": 6,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 59
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 31
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "David Pingree",
+      "count": 103,
+      "source_count": 12,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 38
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 14
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 14
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "Nicolas Weill-Parot",
+      "count": 90,
+      "source_count": 8,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 49
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 18
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Julien Véronèse",
+      "count": 81,
+      "source_count": 9,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 31
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Lynn Thorndike",
+      "count": 73,
+      "source_count": 13,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 14
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "label": "Michael D. Bailey",
+      "count": 65,
+      "source_count": 12,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 30
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-catholic-historical-review-vol-95-iss-3-magic-and-superstition-in-europe-a-concise-history-f.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Catherine Rider",
+      "count": 54,
+      "source_count": 8,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 36
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\saan-de-laat-and-harms-privacy-in-magical-manuscripts-author-submitted-manuscript.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Katelyn Mesler",
+      "count": 51,
+      "source_count": 5,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 22
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 15
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Paola Zambelli",
+      "count": 43,
+      "source_count": 11,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 16
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Jan R. Veenstra",
+      "count": 41,
+      "source_count": 8,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 16
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Julien Veronese",
+      "count": 32,
+      "source_count": 4,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 26
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Lea T. Olsan",
+      "count": 20,
+      "source_count": 3,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 18
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Valerie Flint",
+      "count": 17,
+      "source_count": 6,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Don C. Skemer",
+      "count": 16,
+      "source_count": 7,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Béatrice Delaurenti",
+      "count": 11,
+      "source_count": 3,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Robert Mathiesen",
+      "count": 7,
+      "source_count": 5,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Benedek Lang",
+      "count": 5,
+      "source_count": 3,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "figures": [
+    {
+      "label": "Solomon",
+      "count": 982,
+      "source_count": 23,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-the-lesser-key-of-solomon.md",
+          "count": 231
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 130
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 129
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 86
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 78
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-grimorium-verum-createspace.md",
+          "count": 72
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 45
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "label": "Augustine",
+      "count": 735,
+      "source_count": 16,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 270
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 114
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 88
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 52
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 50
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 36
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 34
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "label": "Albertus Magnus",
+      "count": 375,
+      "source_count": 19,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 168
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 54
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 46
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 45
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 14
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "label": "John of Morigny",
+      "count": 346,
+      "source_count": 9,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 76
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 64
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 60
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 46
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 32
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 28
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 26
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "label": "Roger Bacon",
+      "count": 310,
+      "source_count": 11,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 216
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 36
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "label": "William of Auvergne",
+      "count": 264,
+      "source_count": 16,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 82
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 62
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 40
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 35
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "label": "Thomas Aquinas",
+      "count": 176,
+      "source_count": 13,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 62
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 28
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 25
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "label": "Michael Scot",
+      "count": 135,
+      "source_count": 10,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 72
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 20
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "Raziel",
+      "count": 111,
+      "source_count": 14,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 36
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 20
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 10
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\la-cor-nica-a-journal-of-medieval-hispanic-languages-literatures-and-cultures-vol-36-iss-1-magic.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sworn-book-of-honorius-edition-sanne-de-laat-9r-15v-docx.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "label": "Adelard of Bath",
+      "count": 103,
+      "source_count": 7,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 46
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 17
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 15
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "al-Kindi",
+      "count": 77,
+      "source_count": 9,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 25
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 10
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\speculum-1993-apr-vol-68-iss-2-newman-william-r-kieckhefer-richard-magic-in-the-middle-ages-1993.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "Thabit ibn Qurra",
+      "count": 70,
+      "source_count": 7,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\john-michael-greer-de-imaginibus-astral-high-magic-thabit-ibn-qurra-s-de-imaginibus-renaissance-.md",
+          "count": 46
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Isidore of Seville",
+      "count": 63,
+      "source_count": 14,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "label": "Theysolius",
+      "count": 59,
+      "source_count": 5,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\la-cor-nica-a-journal-of-medieval-hispanic-languages-literatures-and-cultures-vol-36-iss-1-magic.md",
+          "count": 25
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 23
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Johannes Hartlieb",
+      "count": 53,
+      "source_count": 7,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 14
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Hugh of St. Victor",
+      "count": 47,
+      "source_count": 7,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 18
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Cecco d'Ascoli",
+      "count": 44,
+      "source_count": 3,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 23
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 16
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "label": "Arnald of Villanova",
+      "count": 37,
+      "source_count": 4,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 26
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Bernard Silvester",
+      "count": 34,
+      "source_count": 1,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "label": "Nicole Oresme",
+      "count": 24,
+      "source_count": 7,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\la-cor-nica-a-journal-of-medieval-hispanic-languages-literatures-and-cultures-vol-36-iss-1-magic.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "Apollonius of Tyana",
+      "count": 24,
+      "source_count": 6,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Honorius of Thebes",
+      "count": 13,
+      "source_count": 7,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sworn-book-of-honorius-edition-sanne-de-laat-9r-15v-docx.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Peter Abelard",
+      "count": 7,
+      "source_count": 3,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Ulrich Molitor",
+      "count": 4,
+      "source_count": 1,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "label": "Abu Ma'shar",
+      "count": 3,
+      "source_count": 1,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "label": "Pietro d'Abano",
+      "count": 3,
+      "source_count": 2,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "label": "Ars Notoria",
+      "count": 2017,
+      "source_count": 17,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 723
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 265
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 228
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 225
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 181
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 168
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 135
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "label": "Picatrix",
+      "count": 959,
+      "source_count": 18,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 526
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 131
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 94
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 31
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 29
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 25
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 24
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "label": "Speculum astronomiae",
+      "count": 317,
+      "source_count": 13,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 89
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 62
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 61
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 50
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 25
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 16
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "label": "Liber Razielis",
+      "count": 254,
+      "source_count": 7,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 93
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 62
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 40
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\la-cor-nica-a-journal-of-medieval-hispanic-languages-literatures-and-cultures-vol-36-iss-1-magic.md",
+          "count": 22
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 14
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "label": "De imaginibus",
+      "count": 223,
+      "source_count": 10,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 55
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 51
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\john-michael-greer-de-imaginibus-astral-high-magic-thabit-ibn-qurra-s-de-imaginibus-renaissance-.md",
+          "count": 33
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 32
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 30
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "label": "Forbidden Rites",
+      "count": 146,
+      "source_count": 14,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 31
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 18
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 18
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 16
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "label": "Sworn Book of Honorius",
+      "count": 136,
+      "source_count": 16,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 64
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 15
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sworn-book-of-honorius-edition-sanne-de-laat-9r-15v-docx.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 10
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-grimorium-verum-createspace.md",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "label": "De radiis",
+      "count": 124,
+      "source_count": 7,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 44
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 31
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 26
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\speculum-1993-apr-vol-68-iss-2-newman-william-r-kieckhefer-richard-magic-in-the-middle-ages-1993.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "De universo",
+      "count": 78,
+      "source_count": 8,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 37
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Liber Juratus",
+      "count": 72,
+      "source_count": 6,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 58
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-the-lesser-key-of-solomon.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "History of Magic and Experimental Science",
+      "count": 59,
+      "source_count": 15,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "label": "Liber Theysolius",
+      "count": 55,
+      "source_count": 5,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\la-cor-nica-a-journal-of-medieval-hispanic-languages-literatures-and-cultures-vol-36-iss-1-magic.md",
+          "count": 23
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 21
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Secretum Secretorum",
+      "count": 53,
+      "source_count": 10,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 22
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-the-lesser-key-of-solomon.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-dan-harms-book-of-magic-with-instructions-for-invoking-spirits-1-1-libgen-li.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Unlocked Books",
+      "count": 36,
+      "source_count": 10,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "De mineralibus",
+      "count": 24,
+      "source_count": 5,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Magic in Medieval Manuscripts",
+      "count": 18,
+      "source_count": 6,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sixteenth-century-journal-2006-oct-01-vol-37-iss-3-magic-in-medieval-manuscriptsby-sophie-page-r.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Munich Manual",
+      "count": 16,
+      "source_count": 3,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "Etymologiae",
+      "count": 14,
+      "source_count": 8,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\la-cor-nica-a-journal-of-medieval-hispanic-languages-literatures-and-cultures-vol-36-iss-1-magic.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Book of Angels",
+      "count": 13,
+      "source_count": 5,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Hazards of the Dark Arts",
+      "count": 11,
+      "source_count": 6,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "De occultis operibus naturae",
+      "count": 10,
+      "source_count": 4,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Sefer Raziel",
+      "count": 9,
+      "source_count": 4,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\la-cor-nica-a-journal-of-medieval-hispanic-languages-literatures-and-cultures-vol-36-iss-1-magic.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Liber experimentorum",
+      "count": 8,
+      "source_count": 2,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "Buch aller verbotenen Kunst",
+      "count": 2,
+      "source_count": 1,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "Opus Majus",
+      "count": 1,
+      "source_count": 1,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "label": "ritual magic",
+      "count": 919,
+      "source_count": 19,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 402
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 120
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 99
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 93
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 70
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 37
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\saan-de-laat-and-harms-privacy-in-magical-manuscripts-author-submitted-manuscript.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "label": "image magic",
+      "count": 868,
+      "source_count": 12,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 518
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 130
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 111
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 34
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 28
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 21
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "label": "witchcraft",
+      "count": 842,
+      "source_count": 25,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 335
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 83
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 82
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 59
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 48
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 42
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 42
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "label": "necromancy",
+      "count": 746,
+      "source_count": 20,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 120
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 119
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 114
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 103
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 78
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 75
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 39
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "label": "divination",
+      "count": 679,
+      "source_count": 19,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 136
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 113
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 70
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 63
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 42
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 42
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 32
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "label": "experimental science",
+      "count": 573,
+      "source_count": 16,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 501
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 25
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "label": "natural magic",
+      "count": 458,
+      "source_count": 16,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 151
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 84
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 50
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 49
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 36
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 25
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 21
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "label": "charms",
+      "count": 451,
+      "source_count": 19,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 142
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 101
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 55
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 50
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 18
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 17
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "label": "characters",
+      "count": 406,
+      "source_count": 23,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 68
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-grimorium-verum-createspace.md",
+          "count": 65
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 64
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 32
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 26
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 26
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 22
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "label": "talismans",
+      "count": 371,
+      "source_count": 17,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 115
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 98
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\john-michael-greer-de-imaginibus-astral-high-magic-thabit-ibn-qurra-s-de-imaginibus-renaissance-.md",
+          "count": 47
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 25
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 16
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "label": "superstition",
+      "count": 347,
+      "source_count": 16,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 134
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 112
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 18
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 17
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 15
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-catholic-historical-review-vol-95-iss-3-magic-and-superstition-in-europe-a-concise-history-f.md",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "label": "learned magic",
+      "count": 344,
+      "source_count": 17,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 141
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 56
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 33
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 31
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 14
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "label": "notae",
+      "count": 344,
+      "source_count": 9,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 235
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 36
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 21
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 15
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 11
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 10
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-the-lesser-key-of-solomon.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "label": "amulets",
+      "count": 258,
+      "source_count": 19,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 113
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 36
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 22
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 21
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 10
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "label": "confession",
+      "count": 232,
+      "source_count": 19,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 72
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 40
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 24
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 17
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 10
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "label": "astral magic",
+      "count": 180,
+      "source_count": 16,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 70
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 27
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 20
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "label": "seals",
+      "count": 162,
+      "source_count": 17,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 37
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-the-lesser-key-of-solomon.md",
+          "count": 25
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 20
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 14
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-grimorium-verum-createspace.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "label": "geomancy",
+      "count": 162,
+      "source_count": 14,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 65
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 23
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 17
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "label": "exorcism",
+      "count": 125,
+      "source_count": 16,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 27
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 16
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-grimorium-verum-createspace.md",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "label": "chiromancy",
+      "count": 104,
+      "source_count": 14,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 29
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 22
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "label": "nigromancy",
+      "count": 92,
+      "source_count": 13,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 50
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 14
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-the-lesser-key-of-solomon.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "demonology",
+      "count": 84,
+      "source_count": 12,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 32
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 16
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 12
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-grimorium-verum-createspace.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-ritual-and-witchcraft-vol-1-iss-2-28522383-libgen-li.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "suffumigation",
+      "count": 72,
+      "source_count": 11,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 19
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 10
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 10
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-dan-harms-book-of-magic-with-instructions-for-invoking-spirits-1-1-libgen-li.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "label": "pyromancy",
+      "count": 54,
+      "source_count": 12,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 23
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-the-lesser-key-of-solomon.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\aleister-crowley-christopher-s-hyatt-lon-milo-duquette-peter-conte-daniel-pineda-david-p-wilson-.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "clerical underworld",
+      "count": 50,
+      "source_count": 14,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 22
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "secret of secrets",
+      "count": 49,
+      "source_count": 10,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 22
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 9
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-grimorium-verum-createspace.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "occult properties",
+      "count": 48,
+      "source_count": 8,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 26
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "hydromancy",
+      "count": 45,
+      "source_count": 10,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-magic-in-history-hazards-of-the-dark-arts-advice-for-medieval-princes-on-witchc.md",
+          "count": 15
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 7
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dr-stephen-clark-skinner-daniel-clark-ars-notoria-the-grimoire-of-rapid-learning-by-magic-with-t.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-the-lesser-key-of-solomon.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "familiar spirit",
+      "count": 25,
+      "source_count": 4,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\la-cor-nica-a-journal-of-medieval-hispanic-languages-literatures-and-cultures-vol-36-iss-1-magic.md",
+          "count": 16
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "maleficium",
+      "count": 24,
+      "source_count": 8,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 13
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\joseph-h-peterson-dan-harms-book-of-magic-with-instructions-for-invoking-spirits-1-1-libgen-li.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-american-historical-review-1994-jun-vol-99-iss-3-richard-kieckhefer-the-specific-rationality.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "natural powers",
+      "count": 24,
+      "source_count": 9,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 8
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-in-history-richard-kieckhefer-forbidden-rites-a-necromancer-s-manual-of-the-fifteenth-cent.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\benedek-lang-unlocked-books-manuscripts-of-learned-magic-in-the-medieval-libraries-of-central-eu.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\john-michael-greer-de-imaginibus-astral-high-magic-thabit-ibn-qurra-s-de-imaginibus-renaissance-.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "ritual purity",
+      "count": 11,
+      "source_count": 6,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\canto-classics-richard-kieckhefer-magic-in-the-middle-ages-2014-cambridge-university-press-libge.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\dan-attrell-david-porreca-picatrix-a-medieval-treatise-on-astral-magic-10-1515-9780271084152-lib.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "demonic pact",
+      "count": 10,
+      "source_count": 4,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\fanger-claire-rewriting-magic-an-exegesis-of-the-visionary-autobiography-of-a-fourteenth-century.md",
+          "count": 4
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 3
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "sortilege",
+      "count": 8,
+      "source_count": 2,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sharon-hubbs-wright-frank-klaassen-everyday-magicians-legal-records-and-magic-manuscripts-from-t.md",
+          "count": 6
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "celestial influence",
+      "count": 7,
+      "source_count": 4,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\bailey-michael-david-bain-kristi-woodward-callan-maeve-brigid-the-sacred-and-the-sinister-studie.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\thorndike-lynn-a-history-of-magic-and-experimental-science-during-the-first-thirteen-centuries-o.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "voces magicae",
+      "count": 7,
+      "source_count": 3,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 5
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\saan-de-laat-and-harms-privacy-in-magical-manuscripts-author-submitted-manuscript.md",
+          "count": 1
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "angelic invocation",
+      "count": 3,
+      "source_count": 2,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\claire-fanger-invoking-angels-theurgic-ideas-and-practices-thirteenth-to-sixteenth-centuries-pen.md",
+          "count": 2
+        },
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\sophie-page-magic-in-the-cloister-pious-motives-illicit-interests-and-occult-approaches-to-the-m.md",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "label": "magic and cognition",
+      "count": 2,
+      "source_count": 1,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\magic-ritual-and-witchcraft-vol-7-iss-1-from-the-editors-a-note-on-magic-and-cognition-fanger-cl.md",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "label": "mathematical arts",
+      "count": 1,
+      "source_count": 1,
+      "sources": [
+        {
+          "file": "C:\\Dev\\MedievalMagicDB\\sources\\markdown\\the-routledge-histories-sophie-page-editor-catherine-rider-editor-the-routledge-history-of-medie.md",
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

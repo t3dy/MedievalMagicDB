@@ -1,0 +1,78 @@
+{
+  "path": "C:\\Users\\PC\\Downloads\\more medieval magic\\Thorndike, Lynn - A History of Magic and Experimental Science_ During the First Thirteen Centuries of Our Era (vol. 2) 1.0 (1923, Macmillan) - libgen.li.djvu",
+  "size_bytes": 24356640,
+  "markers": {
+    "FORM": {
+      "first_offset": 4,
+      "count": 1055
+    },
+    "DJVM": {
+      "first_offset": 12,
+      "count": 1
+    },
+    "DJVU": {
+      "first_offset": 7358,
+      "count": 1054
+    },
+    "TXTz": {
+      "first_offset": 61068,
+      "count": 1043
+    },
+    "TXTa": {
+      "first_offset": -1,
+      "count": 0
+    },
+    "Sjbz": {
+      "first_offset": 42998,
+      "count": 1047
+    },
+    "Djbz": {
+      "first_offset": -1,
+      "count": 0
+    }
+  },
+  "txtz_chunk_count": 1043,
+  "sample_txtz_chunks": [
+    {
+      "offset": 61068,
+      "size": 217
+    },
+    {
+      "offset": 69938,
+      "size": 471
+    },
+    {
+      "offset": 75880,
+      "size": 446
+    },
+    {
+      "offset": 86906,
+      "size": 1765
+    },
+    {
+      "offset": 99998,
+      "size": 1560
+    },
+    {
+      "offset": 105118,
+      "size": 224
+    },
+    {
+      "offset": 115652,
+      "size": 1455
+    },
+    {
+      "offset": 135408,
+      "size": 2802
+    },
+    {
+      "offset": 160510,
+      "size": 3259
+    },
+    {
+      "offset": 181304,
+      "size": 3202
+    }
+  ],
+  "conversion_note": "TXTz chunks indicate an embedded text layer, but the payload is DjVuLibre BZZ-compressed. Python stdlib zlib cannot decode it, and this PyMuPDF build has no DjVu handler. Install DjVuLibre tools and run djvutxt, or add a BZZ decoder, to convert this file."
+}
