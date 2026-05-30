@@ -74,6 +74,43 @@ An entry is not considered properly seeded until it has at least one meaningful 
 
 The portal distinguishes three states: seeded, relationally connected, and encyclopedia-ready. Seeded entries may have short descriptions, but encyclopedia-ready entries need the full style-guide structures and literature sections. After expansion passes, run `scripts/audit_content_depth.py` and `scripts/build_enrichment_queue.py`. The next writing work should usually begin with `ENRICHMENT_QUEUE.md`, while still allowing human judgment to raise entries of strategic importance.
 
+## Grimoires in Reception Section
+
+Added May 2026. The portal now includes a dedicated section — accessible at `reception.html` — covering the Renaissance and early modern reception of medieval grimoires. The section is seeded by `scripts/seed_reception_section.py` and appears in the navigation as "Reception."
+
+### What the section covers
+
+1. **Ficinian synthesis (c.1460-1500)**: Marsilio Ficino's Latin translation of the Corpus Hermeticum (1463), his *De Vita Coelitus Comparanda* (1489), and the Neoplatonist-Hermetic framework for Renaissance natural magic.
+
+2. **Pico, Agrippa, Trithemius (1480-1535)**: Giovanni Pico della Mirandola's synthesis of Kabbalah and natural magic (1486); Cornelius Agrippa's *De Occulta Philosophia* (manuscript c.1510, print 1531-1533); Johannes Trithemius's library-building at Sponheim and *Steganographia* (c.1499, print 1606).
+
+3. **Dee and Elizabethan magic (1558-1600)**: John Dee's Mortlake library, angel conversations with Kelley (1582-1589), *Mysteriorum Libri Quinque*; the Enochian system's relationship to medieval angelic magic traditions.
+
+4. **The Yates thesis and its revision**: Frances Yates's *Giordano Bruno and the Hermetic Tradition* (1964) and related works argue for a clean break between medieval demonic magic and Renaissance Hermetic-natural magic. D.P. Walker's *Spiritual and Demonic Magic* (1958) provides the nuanced framework. Frank Klaassen's *Transformations of Magic* (2013) challenges Yates directly with manuscript evidence showing strong continuity of medieval ritual magic through the sixteenth century. Every reception entry should position itself in this debate.
+
+5. **Printing press and grimoire circulation (1471-1800)**: The impact of print on grimoire transmission from Ficino's Pimander (1471) through Agrippa's De Occulta Philosophia (1531), the Arbatel and Fourth Book of Occult Philosophy (c.1559), Trithemius's Steganographia (1606), the French popular grimoire tradition (Grand Albert, Petit Albert, Dragon Rouge, c.1750-1800), and Francis Barrett's *The Magus* (1801).
+
+6. **Modern editorial tradition (1888-present)**: Samuel Liddell MacGregor Mathers's editions (1888-1904), Joseph Peterson's Esoteric Archives (1995-present) and critical editions (Lesser Key 2001, Grimorium Verum 2007, Mysteriorum Libri 2003), Dan Harms and Peterson's *Book of Oberon* (2015), Owen Davies's *Grimoires: A History* (2009).
+
+### Priority entries for expansion
+
+The following reception entries are seeded as DRAFT and should be expanded to encyclopedia length in order of scholarly importance:
+
+**Texts**: De Occulta Philosophia (most important), De Vita Coelitus Comparanda, Corpus Hermeticum translation, Mysteriorum Libri Quinque, Giordano Bruno and the Hermetic Tradition (Yates), Spiritual and Demonic Magic (Walker), Grimoires: A History (Davies).
+
+**Persons**: Marsilio Ficino, John Dee, Cornelius Agrippa, Frances Yates, D.P. Walker, Joseph Peterson.
+
+**Concepts**: Yates Thesis (most historiographically important), Renaissance Magic, Hermeticism, Grimoire Printing History.
+
+### Key sources in the Markdown corpus
+
+- `frank-klaassen-the-transformations-of-magic-illicit-learned-magic-in-the-later-middle-ages-and-r.md` — Chapter 7 (pp. 187-218) is the primary scholarly source for the medieval-Renaissance continuity argument.
+- `frank-klaassen-making-magic-in-elizabethan-england-two-early-modern-vernacular-books-of-magic-pe.md` — critical edition of Elizabethan vernacular magic manuscripts.
+- `joseph-h-peterson-dan-harms-book-of-magic-with-instructions-for-invoking-spirits-1-1-libgen-li.md` — Peterson/Harms edition with scholarly introduction.
+- `joseph-h-peterson-grimorium-verum-createspace.md` — Peterson's Grimorium Verum edition.
+- `joseph-h-peterson-the-lesser-key-of-solomon.md` — Peterson's Lesser Key edition.
+- `the-magic-of-rogues-necromancers-in-early-tudor-england-penn-state-university-press.md` — Klaassen/Wright on early Tudor magic.
+
 ## DjVu Conversion Rule
 
 DjVu files may contain embedded `TXTz` text chunks. Those chunks use DjVuLibre BZZ compression, which is not decodable by Python's standard library or the current PyMuPDF build. If DjVuLibre tools such as `djvutxt` become available, the converter should ingest DjVu text directly. Until then, DjVu records must remain in the bibliography with `unsupported` status and a note identifying the BZZ text-layer blocker.

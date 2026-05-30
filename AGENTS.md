@@ -15,13 +15,31 @@ The portal's coverage ambition is comprehensive. It should eventually contain en
 
 ## Current Phase
 
-Corpus conversion and scholarly expansion:
+Corpus conversion, scholarly expansion, and Reception section development:
 
 1. Convert the source PDFs to Markdown for token-efficient ingestion.
 2. Seed the database with bibliography records for the corpus.
 3. Search the Markdown corpus for recurring topics, texts, scholars, historical figures, and historiographical concepts.
 4. Seed candidates as dictionary entries, biographies, text summaries, concept links, and timeline events before full encyclopedia prose is written.
 5. Generate the static website viewer and validate links.
+6. **Reception section (added May 2026)**: A dedicated section covering the Renaissance and early modern reception of medieval grimoires. Seeded by `scripts/seed_reception_section.py`. Navigable at `reception.html`. Contains 65 cards (30 texts, 20 persons, 15 concepts) and 34 geo-coded timeline events. Style requirements in STYLEGUIDE.md § Reception Section. Key historiographical debate: Yates thesis (clean medieval/Renaissance break) vs. Klaassen continuity argument.
+
+### Reception Section: Key Schema Notes
+
+`timeline_events` now has `location TEXT`, `latitude REAL`, `longitude REAL` columns added by migration in `seed_reception_section.py`. The `init_db.py` schema has been updated to include these columns in new installations. All timeline events in the reception section carry geo-coordinates for the map display on `reception.html`.
+
+Reception page generation is handled by `generate_reception()` in `deploy_portal.py`. The function filters by `period IN ('RENAISSANCE','EARLY_MODERN')` for texts/persons, by specific text_ids for modern scholarship, and by explicit slug sets for concepts. The function also queries for modern scholars linked to reception-section texts via `person_text_roles`.
+
+### Reception Section: Enrichment Priorities
+
+All 65 reception section cards are currently DRAFT status. Priority expansion order:
+
+1. **Yates Thesis** concept (definition_long: 1,500-2,500 words) — most historiographically important entry in the section
+2. **Marsilio Ficino** biography (bio_html: 1,200-2,200 words) — foundational figure
+3. **De Occulta Philosophia** text summary (analysis_html: 900-2,500 words)
+4. **John Dee** biography — best-documented Renaissance magical practitioner
+5. **Grimoire Printing History** concept — links medieval manuscript and modern print traditions
+6. **Renaissance Magic** concept — anchor for the section's historiographical frame
 
 ## Architecture
 

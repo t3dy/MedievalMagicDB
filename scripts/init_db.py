@@ -112,6 +112,9 @@ CREATE TABLE IF NOT EXISTS timeline_events (
     person_id INTEGER REFERENCES persons(id),
     text_id INTEGER REFERENCES texts(id),
     bib_id INTEGER REFERENCES bibliography(id),
+    location TEXT,
+    latitude REAL,
+    longitude REAL,
     confidence TEXT DEFAULT 'MEDIUM' CHECK(confidence IN ('HIGH','MEDIUM','LOW'))
 );
 

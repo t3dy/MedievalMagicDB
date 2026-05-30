@@ -145,3 +145,31 @@ Use approximate dates honestly: `c. 1250-1300`, `late fifteenth century`, or `be
 Use full bibliography in prose fields. Author surname first. Book titles in `<i>` tags. Article titles in quotation marks. Include place, publisher, year, and page ranges when available.
 
 Never use "ibid." Do not use naked URLs as substitutes for bibliographic data.
+
+## Reception Section: Grimoires in Renaissance and Early Modern Europe
+
+The Reception section covers the transmission and transformation of medieval grimoires from the fifteenth century onward: the Ficinian Neoplatonist synthesis, Agrippa's *De Occulta Philosophia*, Trithemius's library and *Steganographia*, John Dee's angel conversations, the impact of the printing press on grimoire diffusion, the French popular grimoire tradition, Frances Yates's Hermetic thesis and its critical revision, and the modern editorial tradition of Joseph Peterson, Dan Harms, Samuel Liddell MacGregor Mathers, and Owen Davies.
+
+### Reception Section: Card Length Requirements
+
+`description` fields for reception persons, texts, and concepts are 100-180 words of plain text, following the standard short-field format but requiring explicit reference to at least one named scholar, primary text, or dated event.
+
+For reception texts, `description` must state: (1) date and place of composition or first publication; (2) the text's relationship to medieval antecedents (explicit or inferred); (3) the name of at least one modern scholarly edition or study.
+
+For reception persons, `description` must state: (1) dates when known; (2) main work or role; (3) historiographical significance for the reception of medieval magic, including specific argument or edition where applicable.
+
+### Reception Section: Historiographical Frame
+
+Reception entries must engage with the debate between the Yates thesis (sharp break between medieval and Renaissance magic) and the continuity argument represented by Frank Klaassen's *Transformations of Magic* (2013). D.P. Walker's *Spiritual and Demonic Magic* (1958) provides the standard framework for Ficino's magical theory. Entries must not adopt Yates's framework uncritically; they must note where Klaassen's manuscript evidence modifies her claims.
+
+The distinction between the *philosophical* register of Renaissance occult writing (Ficino, Agrippa, Bruno) and the *practical* register of magic manuscript compilation and use (Sloane manuscripts, Folger MSS, continental collections) must be maintained throughout the section.
+
+### Reception Section: Timeline and Map Standards
+
+Timeline events covering the reception section carry `location`, `latitude`, and `longitude` fields for map display. Every reception timeline entry must include: (1) a city or place name in the `location` field; (2) approximate decimal coordinates in `latitude` and `longitude`; (3) a `description` of 100-200 words following the standard timeline format.
+
+Reception timeline events should use `event_type` values: `COMPOSITION` (for works written), `PUBLICATION` (for print publication), `TRANSLATION` (for key translations), `SCHOLARSHIP` (for modern academic publications), `EDITION` (for critical editions), `CONDEMNATION` (for trials, burnings, Index entries).
+
+### Reception Section: Relationship to Main Portal
+
+Reception entries appear in both the main Texts, Persons, and Concepts pages and in the dedicated Reception page. They are filtered by `period IN ('RENAISSANCE','EARLY_MODERN')` for persons/texts, and by `slug` for the fixed set of fifteen reception concepts. Modern scholarship texts linked to the reception section are also included on the Reception page via explicit `text_id` filtering in `RECEPTION_SCHOLARSHIP_IDS` in `scripts/deploy_portal.py`.
