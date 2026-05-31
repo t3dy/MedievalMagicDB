@@ -1,0 +1,350 @@
+<!doctype html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>Solomonic Magic - MedievalMagicDB</title><style>
+:root{--bg:#10100e;--panel:#181915;--panel2:#202118;--ink:#eee8d7;--muted:#b8ad94;--line:#4b442e;--gold:#d0a94f;--green:#7aa36b;--red:#b96b5f;--blue:#7296a8;--font:Georgia,'Times New Roman',serif;--ui:Inter,Segoe UI,Arial,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--ui);line-height:1.65}.nav{position:sticky;top:0;z-index:3;background:rgba(16,16,14,.94);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}.nav-inner{max-width:1180px;margin:0 auto;padding:14px 20px;display:flex;gap:18px;align-items:center;justify-content:space-between}.brand{font-family:var(--font);font-size:24px;color:var(--gold);text-decoration:none}.links{display:flex;gap:14px;flex-wrap:wrap}.links a{color:var(--ink);text-decoration:none;font-size:14px}.links a:hover{color:var(--gold)}.links a.active{color:var(--gold);border-bottom:1px solid var(--gold)}main{max-width:1180px;margin:0 auto;padding:42px 20px}.hero{min-height:360px;display:grid;align-content:end;padding:48px 20px;background:linear-gradient(rgba(16,16,14,.25),rgba(16,16,14,.92)),url('assets/manuscript-field.svg');background-size:cover;background-position:center;border-bottom:1px solid var(--line)}.hero-inner{max-width:1180px;margin:0 auto;width:100%}h1{font-family:var(--font);font-size:clamp(42px,7vw,82px);line-height:1;margin:0 0 14px;color:#f5d982;letter-spacing:0}h2{font-family:var(--font);font-size:30px;color:var(--gold);margin:34px 0 14px}.subtitle{font-size:19px;color:var(--muted);max-width:760px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}.card{display:block;background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:18px;text-decoration:none;color:var(--ink);min-height:180px}.card:hover{border-color:var(--gold);background:var(--panel2)}.card-title{font-family:var(--font);font-size:23px;color:#f1d17c;line-height:1.15;margin-bottom:8px}.meta{font-size:12px;text-transform:uppercase;letter-spacing:.08em;color:var(--gold);margin-bottom:10px}.desc{font-size:14px;color:var(--muted)}.prose{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:26px;font-family:var(--font);font-size:19px}.prose p{margin:0 0 18px}.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 22px}.toolbar input,.toolbar select{background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:10px 12px}.pill{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:3px 9px;color:var(--muted);font-size:12px;margin-right:6px}.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;margin:30px 0}.stat{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:18px}.stat strong{display:block;font-family:var(--font);font-size:34px;color:var(--gold)}footer{border-top:1px solid var(--line);padding:36px 20px;text-align:center;color:var(--muted)}.map-container{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:16px;margin:28px 0;overflow:hidden}.map-container svg{width:100%;height:auto;display:block}.map-dot{cursor:pointer}.map-dot:hover circle{fill:var(--gold)!important}.map-tooltip{position:absolute;background:var(--panel2);border:1px solid var(--line);border-radius:6px;padding:10px 14px;font-size:13px;max-width:280px;pointer-events:none;display:none;z-index:10}.timeline-entry{border-left:2px solid var(--line);padding:0 0 28px 20px;position:relative}.timeline-entry::before{content:'';position:absolute;left:-5px;top:4px;width:8px;height:8px;border-radius:50%;background:var(--gold)}.timeline-year{font-family:var(--font);color:var(--gold);font-size:22px;margin:0 0 6px}.timeline-title{font-weight:600;margin:0 0 4px}.timeline-desc{font-size:14px;color:var(--muted)}.period-badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;margin-left:8px}.badge-renaissance{background:#2a3820;color:#7aa36b}.badge-early_modern{background:#1e2a38;color:#7296a8}.badge-modern{background:#2a2018;color:#d0a94f}.map-controls{display:flex;gap:8px;margin-bottom:12px;flex-wrap:wrap}.map-btn{background:var(--panel);border:1px solid var(--line);border-radius:4px;padding:8px 14px;color:var(--muted);cursor:pointer;font-size:13px;font-family:var(--ui);transition:border-color .15s,color .15s}.map-btn:hover{border-color:var(--gold);color:var(--ink)}.map-btn.active{background:var(--panel2);border-color:var(--gold);color:var(--gold)}.section-badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;margin-left:6px}.badge-solomonic{background:#241830;color:#9b7ec8}.badge-scholasticism{background:#1a2418;color:#6a9b6a}
+</style></head><body>
+    <nav class="nav"><div class="nav-inner"><a class="brand" href="index.html">MedievalMagicDB</a><div class="links">
+    <a href="texts.html">Texts</a><a href="persons.html">Persons</a><a href="concepts.html">Concepts</a><a href="reception.html">Reception</a><a href="solomonic.html" class='active'>Solomonic</a><a href="scholasticism.html">Scholasticism</a><a href="bibliography.html">Bibliography</a><a href="timeline.html">Timeline</a><a href="about.html">Methodology</a>
+    </div></div></nav>
+    
+<section class='hero'>
+<div class='hero-inner'>
+<h1>Solomonic Magic</h1>
+<p class='subtitle'>The grimoire tradition centered on the authority of Solomon: from the Testament of Solomon and Sepher ha-Razim through the Clavicula Salomonis manuscript families, Solomonic adjuration, spirit catalogues, and the Ring of Solomon — traced across Jewish, Christian, and Islamic textual cultures from late antiquity to the modern critical edition.</p>
+</div>
+</section>
+<main>
+<div class='stats'><div class='stat'><strong>9</strong>Texts</div><div class='stat'><strong>14</strong>Persons</div><div class='stat'><strong>8</strong>Concepts</div><div class='stat'><strong>15</strong>Timeline Events</div></div>
+
+<section class='prose' style='margin-bottom:28px'>
+<p>Solomonic magic is the largest and most historically consequential tradition in the Western magical grimoire corpus. Its authority derives from the biblical Solomon — king, builder of the Temple, master of wisdom — whose legendary powers over demons, spirits, and the natural world were elaborated in Jewish pseudepigraphic literature, Christian demonological writing, and Islamic Qur'anic tradition from the second century CE onward. The Testament of Solomon, compiled in the eastern Mediterranean between the second and fifth centuries CE, catalogues seventy-two demons bound by Solomon's divinely-given ring and establishes the genre of the Solomonic spirit catalogue. The Clavicula Salomonis (Key of Solomon), the Hygromanteia, the Liber Razielis, the Sepher ha-Razim, and the entire Lemegeton complex all operate under Solomonic pseudepigraphic authority. Pablo Torijano's <i>Solomon the Esoteric King</i> (Brill, 2002) provides the fullest account of how the biblical king was transformed into a magus across religious traditions; Gideon Bohak's <i>Ancient Jewish Magic</i> (Cambridge UP, 2008) grounds the Solomonic corpus in its late antique Jewish context. The map below shows the geographic span of the tradition from Jerusalem and Baghdad to the manuscript libraries of Paris, Florence, and London.</p>
+</section>
+
+<h2>Map: Solomonic Tradition from Jerusalem to London</h2><div class='map-container' style='position:relative'><div class='map-controls'><button class='map-btn' data-view='all'>All Events</button><button class='map-btn active' data-view='solomonic'>Solomonic</button><button class='map-btn' data-view='reception'>Reception</button><button class='map-btn' data-view='scholasticism'>Scholasticism</button></div><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" id="wide-map" style="background:#0d1520;border-radius:6px">
+<defs><filter id="glow2"><feGaussianBlur stdDeviation="2" result="cb"/><feMerge><feMergeNode in="cb"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g opacity=".32" fill="none" stroke="#4b442e" stroke-width="1">
+  <!-- Ireland -->
+  <path d="M80,147 Q88,130 100,115 Q112,106 120,118 Q124,133 118,148 Q112,163 100,170 Q88,163 80,147 Z"/>
+  <!-- England / Scotland schematic -->
+  <path d="M124,164 Q138,156 150,148 Q168,141 192,144 Q220,148 222,156 Q215,165 200,162 Q185,158 170,160 Q152,162 138,168 Z"/>
+  <path d="M178,144 Q176,125 174,106 Q172,92 176,80 Q182,75 184,88 Q182,106 180,125 Q178,136 178,144 Z"/>
+  <!-- Iberian Peninsula -->
+  <path d="M80,305 Q86,276 92,250 Q96,234 106,225 Q120,218 142,217 Q165,217 190,227 Q212,237 238,246 Q242,264 235,283 Q224,305 206,318 Q184,330 160,330 Q135,326 114,315 Q92,305 80,305 Z"/>
+  <!-- France -->
+  <path d="M136,183 Q156,174 188,172 Q213,170 232,177 Q254,185 270,193 Q295,200 315,212 Q320,228 312,243 Q297,252 276,252 Q256,250 238,246 Q220,240 204,230 Q185,220 165,210 Q148,200 136,183 Z"/>
+  <!-- Low Countries -->
+  <path d="M264,150 Q282,144 302,146 Q314,154 308,164 Q294,170 275,166 Q263,160 264,150 Z"/>
+  <!-- German lands -->
+  <path d="M312,164 Q346,150 380,148 Q408,148 430,159 Q450,172 448,190 Q440,208 422,216 Q402,222 380,218 Q358,212 338,202 Q318,190 312,164 Z"/>
+  <!-- Scandinavia S -->
+  <path d="M296,142 Q312,124 326,110 Q334,100 332,88 Q324,82 316,92 Q308,106 300,120 Q294,132 290,142 Z"/>
+  <path d="M332,88 Q348,76 362,70 Q374,65 375,78 Q368,92 354,102 Q340,110 332,100 Z"/>
+  <!-- Italy -->
+  <path d="M318,224 Q340,218 364,218 Q386,226 396,242 Q402,260 394,280 Q380,304 365,330 Q352,352 342,362 Q330,354 328,334 Q325,312 328,290 Q325,260 318,224 Z"/>
+  <!-- Sicily -->
+  <path d="M368,364 Q384,358 400,366 Q404,378 390,384 Q374,382 368,368 Z"/>
+  <!-- Balkans / Greece -->
+  <path d="M486,290 Q508,278 530,280 Q550,286 554,302 Q546,318 528,320 Q510,318 500,307 Z"/>
+  <!-- Anatolia / Turkey -->
+  <path d="M558,262 Q602,250 645,248 Q688,251 718,262 Q740,274 737,287 Q722,298 696,300 Q665,298 636,290 Q604,280 575,272 Q557,268 558,262 Z"/>
+  <!-- North Africa coast -->
+  <path d="M122,318 Q178,355 244,362 Q315,368 385,364 Q455,358 515,350 Q558,343 598,342"/>
+  <!-- Eastern Med / Levant coast -->
+  <path d="M598,342 Q626,354 650,364 Q668,370 680,358 Q684,344 680,328 Q676,314 682,305"/>
+  <!-- Turkey S coast + Aegean -->
+  <path d="M486,292 Q528,314 558,324 Q582,328 612,312 Q636,300 682,305"/>
+  <!-- Mesopotamia / Iraq schematic -->
+  <path d="M682,305 Q720,314 752,322 Q785,330 812,344 Q828,355 820,365 Q800,370 778,362 Q752,352 732,340"/>
+</g>
+<!-- Lat/lon grid -->
+<g opacity=".08" fill="none" stroke="#d0a94f" stroke-width=".5">
+  <line x1="0" y1="55" x2="1000" y2="55"/><line x1="0" y1="109" x2="1000" y2="109"/>
+  <line x1="0" y1="164" x2="1000" y2="164"/><line x1="0" y1="218" x2="1000" y2="218"/>
+  <line x1="0" y1="273" x2="1000" y2="273"/><line x1="0" y1="327" x2="1000" y2="327"/>
+  <line x1="0" y1="382" x2="1000" y2="382"/>
+  <line x1="200" y1="0" x2="200" y2="600"/><line x1="333" y1="0" x2="333" y2="600"/>
+  <line x1="467" y1="0" x2="467" y2="600"/><line x1="600" y1="0" x2="600" y2="600"/>
+  <line x1="733" y1="0" x2="733" y2="600"/><line x1="867" y1="0" x2="867" y2="600"/>
+</g>
+<!-- Grid labels -->
+<g fill="#4b442e" font-size="9" font-family="Georgia" opacity=".6">
+  <text x="202" y="11">0°E</text><text x="335" y="11">10°E</text><text x="469" y="11">20°E</text>
+  <text x="602" y="11">30°E</text><text x="735" y="11">40°E</text><text x="869" y="11">50°E</text>
+  <text x="975" y="57">60°N</text><text x="975" y="111">55°N</text><text x="975" y="166">50°N</text>
+  <text x="975" y="275">40°N</text><text x="975" y="329">35°N</text><text x="975" y="384">30°N</text>
+</g>
+<!-- DOTS — Projection: x=(lon+15)/75*1000  y=(65-lat)/55*600
+     Colours: gold=#d0a94f multi-hub  blue=#7296a8 reception  green=#7aa36b solomonic  red=#b96b5f scholasticism -->
+<!-- London 51.51N -0.13E x=198 y=147 -->
+<g class="map-dot" data-section="reception solomonic" data-city="London"
+   data-events="Dee at Mortlake; Scot Discoverie (1584); Mathers Key of Solomon (1888); Gollancz Hebrew Key (1914); Barrett The Magus (1801); Walker Spiritual Magic (1958); Yates Bruno (1964)">
+  <circle cx="198" cy="147" r="9" fill="#d0a94f" opacity=".9" filter="url(#glow2)"/>
+  <text x="208" y="144" fill="#eee8d7" font-size="10" font-family="Georgia">London</text>
+</g>
+<!-- Oxford 51.75N -1.26E x=183 y=145 -->
+<g class="map-dot" data-section="reception solomonic scholasticism" data-city="Oxford"
+   data-events="Bacon's experimental philosophy (c.1260s); Ashmole collects Solomonic MSS (1641–92); Davies Grimoires (2009)">
+  <circle cx="183" cy="145" r="7" fill="#d0a94f" opacity=".85" filter="url(#glow2)"/>
+  <text x="155" y="142" fill="#eee8d7" font-size="10" font-family="Georgia">Oxford</text>
+</g>
+<!-- Cambridge UK 52.21N 0.12E x=202 y=140 -->
+<g class="map-dot" data-section="solomonic" data-city="Cambridge (UK)"
+   data-events="Bohak Ancient Jewish Magic (Cambridge UP, 2008); Duling OTP translation (1983)">
+  <circle cx="202" cy="140" r="5" fill="#7aa36b" opacity=".8"/>
+</g>
+<!-- Leiden 52.16N 4.49E x=260 y=141 -->
+<g class="map-dot" data-section="solomonic" data-city="Leiden"
+   data-events="Torijano Solomon the Esoteric King (Brill, 2002)">
+  <circle cx="260" cy="141" r="5" fill="#7aa36b" opacity=".8"/>
+  <text x="265" y="138" fill="#eee8d7" font-size="10" font-family="Georgia">Leiden</text>
+</g>
+<!-- Antwerp 51.22N 4.40E x=259 y=150 -->
+<g class="map-dot" data-section="reception" data-city="Antwerp"
+   data-events="Dee publishes Monas Hieroglyphica (1564)">
+  <circle cx="259" cy="150" r="5" fill="#7296a8" opacity=".78"/>
+</g>
+<!-- Paris 48.85N 2.35E x=231 y=176 -->
+<g class="map-dot" data-section="reception solomonic scholasticism" data-city="Paris"
+   data-events="French popular grimoire tradition (c.1750); Clavicula Salomonis circulates (c.1250–1320); William of Auvergne condemns Solomonic arts (1230s); Aquinas Summa theologiae (1265–74); Tempier condemnations 1270 and 1277; Oresme critiques astrology (1360s)">
+  <circle cx="231" cy="176" r="9" fill="#d0a94f" opacity=".9" filter="url(#glow2)"/>
+  <text x="238" y="173" fill="#eee8d7" font-size="10" font-family="Georgia">Paris</text>
+</g>
+<!-- Cologne 50.93N 6.95E x=293 y=153 -->
+<g class="map-dot" data-section="reception scholasticism" data-city="Cologne"
+   data-events="Agrippa De Occulta Philosophia published (1531); Albertus Magnus natural philosophy (1248–64)">
+  <circle cx="293" cy="153" r="7" fill="#d0a94f" opacity=".85" filter="url(#glow2)"/>
+  <text x="300" y="150" fill="#eee8d7" font-size="10" font-family="Georgia">Cologne</text>
+</g>
+<!-- Sponheim 49.84N 7.91E x=305 y=166 -->
+<g class="map-dot" data-section="reception" data-city="Sponheim"
+   data-events="Trithemius abbot (1483–1505); Steganographia composed (c.1499)">
+  <circle cx="305" cy="166" r="6" fill="#7aa36b" opacity=".8" filter="url(#glow2)"/>
+  <text x="312" y="163" fill="#eee8d7" font-size="10" font-family="Georgia">Sponheim</text>
+</g>
+<!-- Frankfurt 50.11N 8.68E x=315 y=162 -->
+<g class="map-dot" data-section="reception" data-city="Frankfurt"
+   data-events="Steganographia first printed (1606)">
+  <circle cx="315" cy="162" r="5" fill="#7296a8" opacity=".75"/>
+  <text x="322" y="159" fill="#eee8d7" font-size="10" font-family="Georgia">Frankfurt</text>
+</g>
+<!-- Speyer 49.32N 8.44E x=312 y=173 -->
+<g class="map-dot" data-section="scholasticism" data-city="Speyer"
+   data-events="Malleus Maleficarum first printed (1487)">
+  <circle cx="312" cy="173" r="5" fill="#b96b5f" opacity=".8"/>
+</g>
+<!-- Kassel 51.31N 9.48E x=326 y=149 -->
+<g class="map-dot" data-section="reception" data-city="Kassel"
+   data-events="Rosicrucian Fama Fraternitatis published (1614)">
+  <circle cx="326" cy="149" r="5" fill="#7aa36b" opacity=".78"/>
+  <text x="332" y="146" fill="#eee8d7" font-size="10" font-family="Georgia">Kassel</text>
+</g>
+<!-- Würzburg 49.79N 9.93E x=332 y=167 -->
+<g class="map-dot" data-section="reception" data-city="Würzburg"
+   data-events="Trithemius: St James Abbey; died 1516; library inventory survives">
+  <circle cx="332" cy="167" r="5" fill="#7aa36b" opacity=".75"/>
+</g>
+<!-- Marburg 50.80N 8.77E x=317 y=153 -->
+<g class="map-dot" data-section="reception" data-city="Marburg"
+   data-events="Fourth Book of Occult Philosophy printed (1559)">
+  <circle cx="317" cy="153" r="4" fill="#7296a8" opacity=".72"/>
+</g>
+<!-- Munich 48.14N 11.58E x=355 y=185 -->
+<g class="map-dot" data-section="solomonic" data-city="Munich"
+   data-events="Hartlieb classifies Solomonic arts for Duke Albrecht of Bavaria (1456)">
+  <circle cx="355" cy="185" r="5" fill="#7aa36b" opacity=".8"/>
+  <text x="362" y="182" fill="#eee8d7" font-size="10" font-family="Georgia">Munich</text>
+</g>
+<!-- Basel 47.56N 7.59E x=301 y=190 -->
+<g class="map-dot" data-section="reception" data-city="Basel"
+   data-events="Weyer De Praestigiis Daemonum (1563); Arbatel de Magia Veterum printed (1575)">
+  <circle cx="301" cy="190" r="6" fill="#7296a8" opacity=".82" filter="url(#glow2)"/>
+  <text x="308" y="187" fill="#eee8d7" font-size="10" font-family="Georgia">Basel</text>
+</g>
+<!-- Treviso 45.67N 12.24E x=363 y=210 -->
+<g class="map-dot" data-section="reception" data-city="Treviso"
+   data-events="Ficino's Pimander (Corpus Hermeticum) first printed (1471)">
+  <circle cx="363" cy="210" r="5" fill="#d0a94f" opacity=".75"/>
+  <text x="370" y="207" fill="#eee8d7" font-size="10" font-family="Georgia">Treviso</text>
+</g>
+<!-- Padua 45.41N 11.88E x=359 y=213 -->
+<g class="map-dot" data-section="scholasticism" data-city="Padua"
+   data-events="Pietro d'Abano's Conciliator (c.1310); Pietro d'Abano tried by Inquisition (1315–17)">
+  <circle cx="359" cy="213" r="6" fill="#b96b5f" opacity=".82" filter="url(#glow2)"/>
+  <text x="366" y="223" fill="#eee8d7" font-size="10" font-family="Georgia">Padua</text>
+</g>
+<!-- Florence 43.77N 11.26E x=350 y=231 -->
+<g class="map-dot" data-section="reception scholasticism" data-city="Florence"
+   data-events="Council of Florence / Plethon (1438); Ficino translates Corpus Hermeticum (1463); Pico's context (1486); De Vita Coelitus Comparanda (1489); Cecco d'Ascoli burned (1327)">
+  <circle cx="350" cy="231" r="8" fill="#d0a94f" opacity=".88" filter="url(#glow2)"/>
+  <text x="358" y="228" fill="#eee8d7" font-size="10" font-family="Georgia">Florence</text>
+</g>
+<!-- Rome 41.9N 12.5E x=367 y=252 -->
+<g class="map-dot" data-section="reception" data-city="Rome"
+   data-events="Pico's 900 Theses published (1486); Giordano Bruno burned (1600)">
+  <circle cx="367" cy="252" r="6" fill="#b96b5f" opacity=".82" filter="url(#glow2)"/>
+  <text x="374" y="249" fill="#eee8d7" font-size="10" font-family="Georgia">Rome</text>
+</g>
+<!-- Lyon 45.76N 4.84E x=265 y=209 -->
+<g class="map-dot" data-section="reception" data-city="Lyon"
+   data-events="French popular grimoire printing: Grand Albert, Dragon Rouge (c.1750–1800)">
+  <circle cx="265" cy="209" r="5" fill="#7296a8" opacity=".78"/>
+  <text x="272" y="206" fill="#eee8d7" font-size="10" font-family="Georgia">Lyon</text>
+</g>
+<!-- Naples 40.85N 14.27E x=390 y=264 -->
+<g class="map-dot" data-section="reception solomonic" data-city="Naples"
+   data-events="Della Porta's Magia Naturalis (1558); Liber Razielis at Aragonese court (c.1300–50)">
+  <circle cx="390" cy="264" r="6" fill="#d0a94f" opacity=".82" filter="url(#glow2)"/>
+  <text x="397" y="261" fill="#eee8d7" font-size="10" font-family="Georgia">Naples</text>
+</g>
+<!-- Seville 37.39N -5.99E x=120 y=301 -->
+<g class="map-dot" data-section="scholasticism" data-city="Seville"
+   data-events="Isidore of Seville: Etymologiae classifies the magical arts (c.623–636)">
+  <circle cx="120" cy="301" r="6" fill="#b96b5f" opacity=".82" filter="url(#glow2)"/>
+  <text x="127" y="298" fill="#eee8d7" font-size="10" font-family="Georgia">Seville</text>
+</g>
+<!-- Toledo 39.86N -4.03E x=146 y=274 -->
+<g class="map-dot" data-section="solomonic" data-city="Toledo"
+   data-events="Arabic and Hebrew Solomonic texts translated into Latin (c.1150–1220); Translators include Gerard of Cremona, Michael Scot">
+  <circle cx="146" cy="274" r="6" fill="#7aa36b" opacity=".82" filter="url(#glow2)"/>
+  <text x="153" y="271" fill="#eee8d7" font-size="10" font-family="Georgia">Toledo</text>
+</g>
+<!-- Hippo / Annaba 36.9N 7.77E x=307 y=306 -->
+<g class="map-dot" data-section="scholasticism" data-city="Hippo Regius (Annaba)"
+   data-events="Augustine of Hippo: City of God — foundational Christian demonology (c.415–426)">
+  <circle cx="307" cy="306" r="6" fill="#b96b5f" opacity=".82" filter="url(#glow2)"/>
+  <text x="314" y="303" fill="#eee8d7" font-size="10" font-family="Georgia">Hippo</text>
+</g>
+<!-- Constantinople 41.01N 28.98E x=586 y=262 -->
+<g class="map-dot" data-section="solomonic" data-city="Constantinople"
+   data-events="Byzantine Hygromanteia compiled (c.1000–1100); Solomonic tradition in Greek learned culture">
+  <circle cx="586" cy="262" r="7" fill="#7aa36b" opacity=".85" filter="url(#glow2)"/>
+  <text x="594" y="259" fill="#eee8d7" font-size="10" font-family="Georgia">Constantinople</text>
+</g>
+<!-- Jerusalem 31.78N 35.22E x=670 y=362 -->
+<g class="map-dot" data-section="solomonic" data-city="Jerusalem"
+   data-events="Legendary site of Solomon's Temple; Sepher ha-Razim compiled (c.700–900); origin of all Solomonic pseudepigraphic authority">
+  <circle cx="670" cy="362" r="8" fill="#d0a94f" opacity=".9" filter="url(#glow2)"/>
+  <text x="678" y="359" fill="#eee8d7" font-size="10" font-family="Georgia">Jerusalem</text>
+</g>
+<!-- Alexandria 31.2N 29.95E x=599 y=369 -->
+<g class="map-dot" data-section="solomonic" data-city="Alexandria (Egypt)"
+   data-events="Testament of Solomon compiled (c.200–500 CE); Christian demonological milieu">
+  <circle cx="599" cy="369" r="6" fill="#7aa36b" opacity=".82" filter="url(#glow2)"/>
+  <text x="607" y="366" fill="#eee8d7" font-size="10" font-family="Georgia">Alexandria</text>
+</g>
+<!-- Baghdad 33.34N 44.44E x=793 y=345 -->
+<g class="map-dot" data-section="solomonic" data-city="Baghdad"
+   data-events="Solomonic traditions in Islamic literature (c.850–1000); Ring of Sulayman in Arabic texts; Abbasid learned culture and Solomonic magic">
+  <circle cx="793" cy="345" r="7" fill="#7aa36b" opacity=".85" filter="url(#glow2)"/>
+  <text x="800" y="342" fill="#eee8d7" font-size="10" font-family="Georgia">Baghdad</text>
+</g>
+<!-- Sea labels -->
+<g fill="#2a3545" font-size="11" font-family="Georgia" font-style="italic" opacity=".7">
+  <text x="355" y="345">Mediterranean Sea</text>
+  <text x="620" y="240">Black Sea</text>
+</g>
+</svg></div><div style='display:flex;gap:14px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-top:8px'><span><span style='color:#d0a94f'>&#9679;</span> Major hub</span><span><span style='color:#7296a8'>&#9679;</span> Reception</span><span><span style='color:#7aa36b'>&#9679;</span> Solomonic</span><span><span style='color:#b96b5f'>&#9679;</span> Scholasticism</span></div><p style='color:var(--muted);font-size:13px;margin-top:6px'>Hover dots for events. Toggle buttons zoom the map to each section's geographic region.</p>
+
+<h2>Key Figures (14 entries)</h2>
+<div class='grid'>
+<a class='card' href='persons/raziel.html'><div class='card-title'>Raziel<span class='period-badge '>Medieval</span></div><div class='meta'>ATTRIBUTED_AUTHORITY / MEDIEVAL</div><div class='desc'>Angelic authority associated with the Liber Razielis and related Jewish and Latin traditions of revealed esoteric knowledge.</div></a>
+<a class='card' href='persons/solomon.html'><div class='card-title'>Solomon<span class='period-badge '>Medieval</span></div><div class='meta'>ATTRIBUTED_AUTHORITY / MEDIEVAL</div><div class='desc'>Biblical king whose attributed authority structures major medieval and early modern traditions of spirit command, talismanic lore, and ritual experiment.</div></a>
+<a class='card' href='persons/dan_harms.html'><div class='card-title'>Dan Harms<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>SCHOLAR / MODERN</div><div class='desc'>American librarian and scholar based in New York whose major research area is the history of magic from antiquity to the present, with particular attention to necromancy, fairy magic, and grimoire transmission. Harms is co-editor of The Book of Oberon: A Sourcebook of Elizabethan Magic (Llewellyn, 2015, with James R. Clark and Joseph H. Peterson), a transcription and annotated translation of Folger MS Vb.26, a late sixteenth-century English manuscript combining Solomonic spirit lists with vernacular fairy magic and practical conjuring. He has also edited The Long-Lost Friend (Llewellyn, 2012) and published articles in the Journal for the Academic Study of Magic, Abraxas, and Fortean Times.</div></a>
+<a class='card' href='persons/david_pingree.html'><div class='card-title'>David Pingree<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>SCHOLAR / MODERN</div><div class='desc'>Historian of exact sciences, astrology, and astral magic whose work is essential for Arabic, Greek, Sanskrit, and Latin transmission histories.</div></a>
+<a class='card' href='persons/dennis_duling.html'><div class='card-title'>Dennis C. Duling<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>SCHOLAR / MODERN</div><div class='desc'>New Testament scholar and translator of the Testament of Solomon in James Charlesworth&#x27;s Old Testament Pseudepigrapha (Doubleday, 1983). Duling&#x27;s annotated translation made the Testament accessible to mainstream biblical scholarship and remains the standard English edition, contextualizing the text within first-century Jewish and Christian demonological thought and Solomonic legend.</div></a>
+<a class='card' href='persons/don_c_skemer.html'><div class='card-title'>Don C. Skemer<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>SCHOLAR / MODERN</div><div class='desc'>Manuscript scholar whose work on textual amulets and written protection is central for charms and apotropaic writing.</div></a>
+<a class='card' href='persons/frank_klaassen.html'><div class='card-title'>Frank Klaassen<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>SCHOLAR / MODERN</div><div class='desc'>Manuscript culture and transformations of learned magic in late medieval and early modern England.</div></a>
+<a class='card' href='persons/gideon_bohak.html'><div class='card-title'>Gideon Bohak<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>SCHOLAR / MODERN</div><div class='desc'>Professor of Jewish philosophy at Tel Aviv University and leading authority on ancient Jewish magic. His Ancient Jewish Magic: A History (Cambridge, 2008) provides the most comprehensive account of Jewish magical practice from antiquity through the rabbinic period, treating amulets, adjurations, Solomonic traditions, and the multilingual magical papyri that document a shared Mediterranean magical culture.</div></a>
+<a class='card' href='persons/herman_gollancz.html'><div class='card-title'>Herman Gollancz<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>EDITOR / MODERN</div><div class='desc'>British rabbi and orientalist (1852–1930) who edited the Hebrew Mafteah Shelomoh (Key of Solomon) from the British Museum manuscript (Oriental MS 14759) for the Oriental Translation Fund (1914). Gollancz&#x27;s edition was the first critical edition of a Hebrew recension of the Clavicula Salomonis, establishing that Hebrew versions of the Key of Solomon circulated independently of the Latin tradition and preserving Solomonic ritual formulas in their original linguistic setting.</div></a>
+<a class='card' href='persons/joseph_peterson.html'><div class='card-title'>Joseph H. Peterson<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>EDITOR / MODERN</div><div class='desc'>American editor and archivist who founded esotericarchives.com (1995), the most comprehensive online repository of transcribed historical magical texts. Peterson&#x27;s critical editions include The Lesser Key of Solomon (2001), Grimorium Verum (2007), John Dee&#x27;s Five Books of Mystery: Mysteriorum Libri Quinque (2003), and The Sworn Book of Honorius (2016). His editions bring rigorous philological practice to texts long circulating in corrupt printed forms, comparing manuscript witnesses to establish reliable texts with scholarly apparatus. Peterson is also co-editor of The Book of Oberon (2015, with Daniel Harms and James R. Clark), the edition of the Folger Shakespeare Library&#x27;s Elizabethan manuscript of conjuring and fairy magic.</div></a>
+<a class='card' href='persons/michael_morgan.html'><div class='card-title'>Michael A. Morgan<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>EDITOR / MODERN</div><div class='desc'>Scholar who produced the first English translation of Sepher ha-Razim (The Book of Mysteries) published by the Society of Biblical Literature in 1983. Morgan&#x27;s translation of Mordecai Margalioth&#x27;s 1966 critical Hebrew edition made this foundational Jewish magical text available to English-language scholars of late antique and medieval magic, enabling comparative study of its angel hierarchies and Solomonic framework with Latin and Greek magical traditions.</div></a>
+<a class='card' href='persons/pablo_torijano.html'><div class='card-title'>Pablo Torijano<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>SCHOLAR / MODERN</div><div class='desc'>Specialist in the esoteric traditions associated with Solomon in late antique and medieval Jewish, Christian, and Islamic sources. His Solomon the Esoteric King (2002) traces how the biblical king became a master of angels, demons, and occult knowledge, fundamentally reshaping scholarly understanding of Solomonic textual authority across religious boundaries.</div></a>
+<a class='card' href='persons/richard_kieckhefer.html'><div class='card-title'>Richard Kieckhefer<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>SCHOLAR / MODERN</div><div class='desc'>Learned magic, necromancy, and the social history of medieval ritual texts.</div></a>
+<a class='card' href='persons/samuel_liddell_mathers.html'><div class='card-title'>Samuel Liddell MacGregor Mathers<span class='period-badge badge-modern'>Modern</span></div><div class='meta'>EDITOR / MODERN</div><div class='desc'>Scottish occultist and a founder of the Hermetic Order of the Golden Dawn (1888). Mathers produced influential editions of medieval and early modern magical texts that introduced them to a wide English audience: The Key of Solomon the King (1888, translated from British Library manuscripts), The Book of the Sacred Magic of Abramelin the Mage (1898, from a French manuscript), and The Goetia: The Lesser Key of Solomon the King (1904, with Aleister Crowley). His editorial choices, invented sections, and translations significantly shaped twentieth-century reception of the grimoire tradition. Joseph Peterson&#x27;s later critical editions have corrected many of Mathers&#x27;s departures from manuscript sources.</div></a>
+</div>
+
+<h2>Primary Sources and Scholarship (9 entries)</h2>
+<div class='grid'>
+<a class='card' href='texts/ars_almadel.html'><div class='card-title'>Ars Almadel<span class='period-badge badge-early_modern'>Early Modern</span></div><div class='meta'>GRIMOIRE / EARLY_MODERN / LATIN</div><div class='desc'>The Ars Almadel is a Solomonic angelic ritual text transmitted in early modern grimoire compilations and linked to older angelic invocation traditions.</div></a>
+<a class='card' href='texts/ars_goetia.html'><div class='card-title'>Ars Goetia<span class='period-badge badge-early_modern'>Early Modern</span></div><div class='meta'>GRIMOIRE / EARLY_MODERN / LATIN</div><div class='desc'>The Ars Goetia is an early modern Solomonic demon catalogue and conjuring text whose roots and reception belong to the wider grimoire tradition.</div></a>
+<a class='card' href='texts/lemegeton.html'><div class='card-title'>Lemegeton<span class='period-badge badge-early_modern'>Early Modern</span></div><div class='meta'>GRIMOIRE / EARLY_MODERN / ENGLISH</div><div class='desc'>The Lemegeton or Lesser Key of Solomon is an early modern Solomonic compilation whose parts preserve angelic, demonic, and planetary ritual traditions.</div></a>
+<a class='card' href='texts/testament_of_solomon.html'><div class='card-title'>Testament of Solomon<span class='period-badge '>Late Antique</span></div><div class='meta'>PRIMARY_SOURCE / LATE_ANTIQUE / GREEK</div><div class='desc'>The Testament of Solomon is a late antique demonological text that made Solomon a paradigmatic commander of spirits in later magical and literary traditions.</div></a>
+<a class='card' href='texts/ars_notoria.html'><div class='card-title'>Ars Notoria<span class='period-badge '>Medieval</span></div><div class='meta'>PRIMARY_SOURCE / MEDIEVAL / LATIN</div><div class='desc'>The Ars Notoria is a ritual art of memory and learning transmitted in medieval Latin manuscripts.</div></a>
+<a class='card' href='texts/clavicula_salomonis.html'><div class='card-title'>Clavicula Salomonis<span class='period-badge '>Medieval</span></div><div class='meta'>GRIMOIRE / MEDIEVAL / LATIN</div><div class='desc'>The Key of Solomon is a major Solomonic grimoire tradition transmitted in late medieval and early modern manuscripts, important for ritual purity, seals, conjurations, and textual instability.</div></a>
+<a class='card' href='texts/hygromanteia.html'><div class='card-title'>Hygromanteia<span class='period-badge '>Medieval</span></div><div class='meta'>GRIMOIRE / MEDIEVAL / GREEK</div><div class='desc'>The Hygromanteia is a Byzantine Greek Solomonic ritual tradition that stands behind later Key of Solomon materials and complicates Latin-centered grimoire histories.</div></a>
+<a class='card' href='texts/liber_juratus_honorii.html'><div class='card-title'>Liber Juratus Honorii<span class='period-badge '>Medieval</span></div><div class='meta'>PRIMARY_SOURCE / MEDIEVAL / LATIN</div><div class='desc'>The Liber Juratus Honorii, or Sworn Book of Honorius, is a major Latin ritual text concerning divine vision, angelic hierarchy, and sworn secrecy.</div></a>
+<a class='card' href='texts/liber_razielis.html'><div class='card-title'>Liber Razielis<span class='period-badge '>Medieval</span></div><div class='meta'>PRIMARY_SOURCE / MEDIEVAL / LATIN</div><div class='desc'>The Liber Razielis is a Latin textual complex associated with angelic revelation, astral knowledge, and the figure of Raziel.</div></a>
+</div>
+
+<h2>Concepts and Categories (8 entries)</h2>
+<div class='grid'>
+<a class='card' href='concepts/adjuration.html'><div class='card-title'>Adjuration</div><div class='meta'>ACTOR_TERM / RITUAL</div><div class='desc'>Actor Term (from Latin adjurare, to swear by). The ritual speech act by which a practitioner compels a spirit, demon, or angel to act, typically by invoking divine names, Solomonic authority, or binding formulas. Adjuration is the central ritual mode of the Solomonic grimoire tradition, distinguishing this literature from prayer (petitionary) and from simple invocation.</div></a>
+<a class='card' href='concepts/angelic_invocation.html'><div class='card-title'>Angelic Invocation</div><div class='meta'>HYBRID / RITUAL</div><div class='desc'>Angelic invocation names ritual address to angels in medieval texts; it may function as an actor practice in prayer-based ritual books and as an analyst category for the study of theurgic or devotional magic.</div></a>
+<a class='card' href='concepts/characters_and_seals.html'><div class='card-title'>Characters and Seals</div><div class='meta'>HYBRID / MANUSCRIPT</div><div class='desc'>Characters and seals are graphic signs used in ritual, talismanic, and angelic materials; they matter as manuscript phenomena because their transmission depends on visual copying as much as verbal text.</div></a>
+<a class='card' href='concepts/demonic_pact.html'><div class='card-title'>Demonic Pact</div><div class='meta'>HYBRID / DEMONOLOGICAL</div><div class='desc'>Demonic pact is a theological and legal category used to explain illicit magic as explicit or implicit agreement with demons, while modern historians analyze it as a polemical and juridical tool rather than a transparent description of practice.</div></a>
+<a class='card' href='concepts/grimoire.html'><div class='card-title'>Grimoire</div><div class='meta'>ANALYST_TERM / MANUSCRIPT</div><div class='desc'>Grimoire is primarily an Analyst Term for manuscript or printed collections of ritual instructions, spirit lists, conjurations, prayers, and experiments.</div></a>
+<a class='card' href='concepts/learned_magic.html'><div class='card-title'>Learned Magic</div><div class='meta'>ANALYST_TERM / HISTORIOGRAPHICAL</div><div class='desc'>Learned magic is an Analyst Term for textually transmitted practices cultivated by literate clerical, university, monastic, or courtly actors.</div></a>
+<a class='card' href='concepts/pseudepigraphy.html'><div class='card-title'>Pseudepigraphy</div><div class='meta'>ANALYST_TERM / MANUSCRIPT</div><div class='desc'>Pseudepigraphy is an Analyst Term for attribution to authoritative figures such as Solomon, Honorius, Raziel, Aristotle, or Hermes; in grimoire studies it is a central mechanism of textual authority.</div></a>
+<a class='card' href='concepts/solomonic_magic.html'><div class='card-title'>Solomonic Magic</div><div class='meta'>HYBRID / HISTORIOGRAPHICAL</div><div class='desc'>Solomonic magic names traditions that invoke Solomon&#x27;s authority for spirit command, seals, ritual purity, and secret knowledge; it is both an actor strategy of attribution and a modern scholarly category.</div></a>
+</div>
+
+<h2>Timeline of the Solomonic Tradition</h2>
+<div style='border-left:2px solid var(--line);padding-left:4px;margin:20px 0'>
+<div class='timeline-entry'><div class='timeline-year'>200–500 &middot; Alexandria (Egypt)</div><div class='timeline-title'>Testament of Solomon Compiled</div><div class='timeline-desc'>The Testament of Solomon, a Greek pseudepigraphic text presenting Solomon as a master of demons bound by his divinely-given ring, was compiled somewhere in the eastern Mediterranean — most likely Egypt or Syria — between the second and fifth centuries CE. Drawing on Jewish demonological traditions, ...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>700–900 &middot; Babylonia / Palestine</div><div class='timeline-title'>Sepher ha-Razim Compiled</div><div class='timeline-desc'>Sepher ha-Razim (The Book of Mysteries) — a Hebrew magical handbook attributed to Noah and transmitted via the patriarchs to Solomon — was compiled in its surviving form between the seventh and tenth centuries CE, likely in the Babylonian Jewish academies or Palestinian milieu. The text organizes th...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>850–1000 &middot; Baghdad</div><div class='timeline-title'>Solomonic Traditions in Islamic Literature</div><div class='timeline-desc'>The Islamic tradition of Solomon (Sulayman) as a prophet with power over jinn, wind, and all creatures was elaborated in Abbasid Baghdad through Qur&#x27;anic exegesis (tafsir), collections of prophetic stories (qisas al-anbiya), and eventually folktale compilations including precursors to the Alf Layla ...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>1000–1100 &middot; Constantinople</div><div class='timeline-title'>Byzantine Hygromanteia Compiled</div><div class='timeline-desc'>The Hygromanteia — a Greek ritual handbook attributed to Solomon and known in the West as the Magical Treatise of Solomon — was compiled in Byzantine circles between the tenth and twelfth centuries, likely in Constantinople or its scholarly orbit. It systematizes astral magic, angel and demon hierar...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>1150–1220 &middot; Toledo</div><div class='timeline-title'>Solomonic Texts Enter Latin via Toledo and Palermo</div><div class='timeline-desc'>The great translation movements centered on Toledo in Castile and Palermo in Norman Sicily brought Arabic philosophical, astrological, and magical texts into Latin between approximately 1150 and 1220. Among these were Solomonic and pseudo-Aristotelian magical works including material that would even...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>1225–1240 &middot; Paris</div><div class='timeline-title'>William of Auvergne Condemns Solomonic Arts</div><div class='timeline-desc'>William of Auvergne, bishop of Paris from 1228, composed De universo and De legibus in the 1230s, providing the most systematic scholastic critique of Solomonic and demonic magic in the period. William distinguished carefully between operations that claimed natural causation and those that required ...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>1250–1320 &middot; Paris</div><div class='timeline-title'>Clavicula Salomonis Circulates in Latin Manuscripts</div><div class='timeline-desc'>Latin manuscripts of the Clavicula Salomonis (Key of Solomon) circulated in French and Parisian contexts from the mid-thirteenth century, alongside the Ars Notoria, Liber Juratus, and other Solomonic ritual texts. The Clavicula presents elaborate procedures for conjuring spirits, constructing pentac...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>1300–1350 &middot; Naples</div><div class='timeline-title'>Liber Razielis at the Aragonese Court</div><div class='timeline-desc'>The Liber Razielis — a massive compilation of Solomonic and angelic magic attributed to the angel Raziel and compiled in Latin from Hebrew and Arabic sources — circulated at the Aragonese court of Naples in the early fourteenth century. A copy was produced for King Alfonso X of Castile in the thirte...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>1456 &middot; Munich</div><div class='timeline-title'>Hartlieb Classifies Solomonic Arts Among Forbidden Practices</div><div class='timeline-desc'>Johannes Hartlieb&#x27;s Buch aller verbotenen Kunst (1456), written for Duke Albrecht III of Bavaria, includes Solomonic ceremonial magic among the eight forbidden arts alongside geomancy, chiromancy, and necromancy. Hartlieb describes the ritual framework — fasting, consecrated implements, spirit names...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>1641–1692 &middot; Oxford</div><div class='timeline-title'>Elias Ashmole Collects Solomonic Manuscripts</div><div class='timeline-desc'>Elias Ashmole (1617–1692), astrologer, antiquary, and founding benefactor of the Ashmolean Museum, assembled one of the most significant collections of English magical manuscripts, now preserved as the Ashmole manuscripts at the Bodleian Library. His collection includes copies of the Ars Notoria, Ke...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>1888 &middot; London</div><div class='timeline-title'>Mathers Publishes The Key of Solomon the King</div><div class='timeline-desc'>Samuel Liddell MacGregor Mathers published The Key of Solomon the King (George Redway, London, 1888), translated from five manuscripts in the British Museum and Bibliothèque nationale de France. Mathers&#x27;s edition was the first widely available English translation of the Clavicula Salomonis tradition...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>1914 &middot; London</div><div class='timeline-title'>Gollancz Edits Hebrew Key of Solomon</div><div class='timeline-desc'>Herman Gollancz published Mafteah Shelomoh: A Book of the Art of Solomon (Oxford University Press for the Oriental Translation Fund, 1914), a facsimile and edition of British Museum MS Oriental 14759, the most complete surviving Hebrew manuscript of the Key of Solomon. Gollancz&#x27;s edition established...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>1983 &middot; Cambridge, UK</div><div class='timeline-title'>Duling Translates Testament of Solomon (OTP)</div><div class='timeline-desc'>Dennis Duling&#x27;s annotated English translation of the Testament of Solomon, published in James Charlesworth&#x27;s Old Testament Pseudepigrapha vol. 1 (Doubleday, 1983), brought the text to the attention of mainstream biblical studies and studies of early Judaism and Christianity. Duling argued for a firs...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>2002 &middot; Leiden</div><div class='timeline-title'>Torijano: Solomon the Esoteric King</div><div class='timeline-desc'>Pablo Torijano&#x27;s Solomon the Esoteric King: From King to Magus, Development of a Tradition (Brill, Leiden, 2002) provided the first comprehensive cross-cultural study of the Solomonic magical tradition from its Second Temple origins through medieval Islam. Torijano traced how the biblical Solomon be...</div></div>
+<div class='timeline-entry'><div class='timeline-year'>2008 &middot; Cambridge, UK</div><div class='timeline-title'>Bohak: Ancient Jewish Magic</div><div class='timeline-desc'>Gideon Bohak&#x27;s Ancient Jewish Magic: A History (Cambridge University Press, 2008) provided the most comprehensive account of Jewish magical practice from the biblical period through the rabbinic era, drawing on amulets, incantation bowls, magical papyri, and textual evidence. Bohak argued that Jewis...</div></div>
+</div>
+
+</main>
+<script>
+(function(){
+  var VIEWS = {
+    all:           {vb:'0 0 1000 600',   show:null},
+    solomonic:     {vb:'0 50 1000 540',  show:'solomonic'},
+    reception:     {vb:'80 80 420 250',  show:'reception'},
+    scholasticism: {vb:'40 70 580 320',  show:'scholasticism'}
+  };
+  var svg = document.getElementById('wide-map');
+  if(!svg) return;
+  var dots = document.querySelectorAll('.map-dot');
+  var btns = document.querySelectorAll('.map-btn');
+  function setView(key){
+    var v = VIEWS[key] || VIEWS.all;
+    svg.setAttribute('viewBox', v.vb);
+    dots.forEach(function(d){
+      if(!v.show){ d.style.display=''; return; }
+      var secs = (d.getAttribute('data-section')||'').split(' ');
+      d.style.display = secs.indexOf(v.show)>-1 ? '' : 'none';
+    });
+    btns.forEach(function(b){ b.classList.toggle('active', b.getAttribute('data-view')===key); });
+  }
+  btns.forEach(function(b){ b.addEventListener('click', function(){ setView(b.getAttribute('data-view')); }); });
+  var tip = document.createElement('div');
+  tip.className = 'map-tooltip';
+  document.body.appendChild(tip);
+  dots.forEach(function(dot){
+    dot.addEventListener('mouseenter', function(e){
+      var city = dot.getAttribute('data-city');
+      var evs = (dot.getAttribute('data-events')||'');
+      tip.innerHTML = '<strong>'+city+'</strong><br>'+evs.split(';').map(function(s){return s.trim();}).filter(Boolean).join('<br>');
+      tip.style.display='block';
+    });
+    dot.addEventListener('mousemove', function(e){ tip.style.left=(e.pageX+14)+'px'; tip.style.top=(e.pageY-10)+'px'; });
+    dot.addEventListener('mouseleave', function(){ tip.style.display='none'; });
+  });
+  var active = document.querySelector('.map-btn.active');
+  setView(active ? active.getAttribute('data-view') : 'all');
+})();
+</script>
+<footer>MedievalMagicDB - scholarly reference portal generated from SQLite.</footer></body></html>

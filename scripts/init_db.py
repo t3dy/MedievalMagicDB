@@ -115,6 +115,7 @@ CREATE TABLE IF NOT EXISTS timeline_events (
     location TEXT,
     latitude REAL,
     longitude REAL,
+    section_tag TEXT,
     confidence TEXT DEFAULT 'MEDIUM' CHECK(confidence IN ('HIGH','MEDIUM','LOW'))
 );
 

@@ -2273,6 +2273,102 @@
       "source_method": "SEED_RECEPTION",
       "review_status": "DRAFT",
       "confidence": "MEDIUM"
+    },
+    {
+      "id": 71,
+      "person_id": "pablo_torijano",
+      "name": "Pablo Torijano",
+      "name_alt": null,
+      "birth_year": null,
+      "death_year": null,
+      "era": "MODERN",
+      "role_primary": "SCHOLAR",
+      "scholar_group": null,
+      "description": "Specialist in the esoteric traditions associated with Solomon in late antique and medieval Jewish, Christian, and Islamic sources. His Solomon the Esoteric King (2002) traces how the biblical king became a master of angels, demons, and occult knowledge, fundamentally reshaping scholarly understanding of Solomonic textual authority across religious boundaries.",
+      "bio_html": null,
+      "source_method": "SEED_DATA",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": 72,
+      "person_id": "gideon_bohak",
+      "name": "Gideon Bohak",
+      "name_alt": null,
+      "birth_year": null,
+      "death_year": null,
+      "era": "MODERN",
+      "role_primary": "SCHOLAR",
+      "scholar_group": null,
+      "description": "Professor of Jewish philosophy at Tel Aviv University and leading authority on ancient Jewish magic. His Ancient Jewish Magic: A History (Cambridge, 2008) provides the most comprehensive account of Jewish magical practice from antiquity through the rabbinic period, treating amulets, adjurations, Solomonic traditions, and the multilingual magical papyri that document a shared Mediterranean magical culture.",
+      "bio_html": null,
+      "source_method": "SEED_DATA",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": 73,
+      "person_id": "dennis_duling",
+      "name": "Dennis C. Duling",
+      "name_alt": null,
+      "birth_year": null,
+      "death_year": null,
+      "era": "MODERN",
+      "role_primary": "SCHOLAR",
+      "scholar_group": null,
+      "description": "New Testament scholar and translator of the Testament of Solomon in James Charlesworth's Old Testament Pseudepigrapha (Doubleday, 1983). Duling's annotated translation made the Testament accessible to mainstream biblical scholarship and remains the standard English edition, contextualizing the text within first-century Jewish and Christian demonological thought and Solomonic legend.",
+      "bio_html": null,
+      "source_method": "SEED_DATA",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": 74,
+      "person_id": "herman_gollancz",
+      "name": "Herman Gollancz",
+      "name_alt": null,
+      "birth_year": null,
+      "death_year": null,
+      "era": "MODERN",
+      "role_primary": "EDITOR",
+      "scholar_group": null,
+      "description": "British rabbi and orientalist (1852–1930) who edited the Hebrew Mafteah Shelomoh (Key of Solomon) from the British Museum manuscript (Oriental MS 14759) for the Oriental Translation Fund (1914). Gollancz's edition was the first critical edition of a Hebrew recension of the Clavicula Salomonis, establishing that Hebrew versions of the Key of Solomon circulated independently of the Latin tradition and preserving Solomonic ritual formulas in their original linguistic setting.",
+      "bio_html": null,
+      "source_method": "SEED_DATA",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": 75,
+      "person_id": "michael_morgan",
+      "name": "Michael A. Morgan",
+      "name_alt": null,
+      "birth_year": null,
+      "death_year": null,
+      "era": "MODERN",
+      "role_primary": "EDITOR",
+      "scholar_group": null,
+      "description": "Scholar who produced the first English translation of Sepher ha-Razim (The Book of Mysteries) published by the Society of Biblical Literature in 1983. Morgan's translation of Mordecai Margalioth's 1966 critical Hebrew edition made this foundational Jewish magical text available to English-language scholars of late antique and medieval magic, enabling comparative study of its angel hierarchies and Solomonic framework with Latin and Greek magical traditions.",
+      "bio_html": null,
+      "source_method": "SEED_DATA",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
+    },
+    {
+      "id": 76,
+      "person_id": "etienne_tempier",
+      "name": "Étienne Tempier",
+      "name_alt": null,
+      "birth_year": null,
+      "death_year": null,
+      "era": "MEDIEVAL",
+      "role_primary": "THEOLOGIAN",
+      "scholar_group": null,
+      "description": "Bishop of Paris (d. 1279) whose condemnations of 1270 (13 theses) and 1277 (219 theses) defined the institutional limits of scholastic natural philosophy, including the condemnation of astrological determinism, the claim that celestial bodies determine terrestrial events, and related propositions that bore on learned magic. The 1277 condemnations reshaped the intellectual context for all subsequent medieval treatments of divination, image magic, and natural magical theory.",
+      "bio_html": null,
+      "source_method": "SEED_DATA",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
     }
   ],
   "concepts": [
@@ -3227,6 +3323,20 @@
       "source_method": "SEED_RECEPTION",
       "review_status": "DRAFT",
       "confidence": "MEDIUM"
+    },
+    {
+      "id": 69,
+      "slug": "adjuration",
+      "label": "Adjuration",
+      "label_alt": null,
+      "category": "RITUAL",
+      "category_type": "ACTOR_TERM",
+      "definition_short": "Actor Term (from Latin adjurare, to swear by). The ritual speech act by which a practitioner compels a spirit, demon, or angel to act, typically by invoking divine names, Solomonic authority, or binding formulas. Adjuration is the central ritual mode of the Solomonic grimoire tradition, distinguishing this literature from prayer (petitionary) and from simple invocation.",
+      "definition_long": null,
+      "significance": "Primary ritual speech act of the Solomonic and demonic conjuration tradition",
+      "source_method": "SEED_DATA",
+      "review_status": "DRAFT",
+      "confidence": "MEDIUM"
     }
   ],
   "bibliography": [
@@ -3823,7 +3933,8 @@
       "confidence": "MEDIUM",
       "location": null,
       "latitude": null,
-      "longitude": null
+      "longitude": null,
+      "section_tag": null
     },
     {
       "id": 2,
@@ -3838,7 +3949,8 @@
       "confidence": "MEDIUM",
       "location": null,
       "latitude": null,
-      "longitude": null
+      "longitude": null,
+      "section_tag": null
     },
     {
       "id": 3,
@@ -3853,7 +3965,8 @@
       "confidence": "MEDIUM",
       "location": null,
       "latitude": null,
-      "longitude": null
+      "longitude": null,
+      "section_tag": null
     },
     {
       "id": 4,
@@ -3868,7 +3981,8 @@
       "confidence": "MEDIUM",
       "location": null,
       "latitude": null,
-      "longitude": null
+      "longitude": null,
+      "section_tag": "reception"
     },
     {
       "id": 5,
@@ -3883,7 +3997,8 @@
       "confidence": "MEDIUM",
       "location": null,
       "latitude": null,
-      "longitude": null
+      "longitude": null,
+      "section_tag": null
     },
     {
       "id": 6,
@@ -3898,7 +4013,8 @@
       "confidence": "MEDIUM",
       "location": null,
       "latitude": null,
-      "longitude": null
+      "longitude": null,
+      "section_tag": "reception"
     },
     {
       "id": 7,
@@ -3913,7 +4029,8 @@
       "confidence": "MEDIUM",
       "location": null,
       "latitude": null,
-      "longitude": null
+      "longitude": null,
+      "section_tag": "reception"
     },
     {
       "id": 8,
@@ -3928,7 +4045,8 @@
       "confidence": "MEDIUM",
       "location": null,
       "latitude": null,
-      "longitude": null
+      "longitude": null,
+      "section_tag": "reception"
     },
     {
       "id": 9,
@@ -3943,7 +4061,8 @@
       "confidence": "MEDIUM",
       "location": null,
       "latitude": null,
-      "longitude": null
+      "longitude": null,
+      "section_tag": null
     },
     {
       "id": 10,
@@ -3958,7 +4077,8 @@
       "confidence": "MEDIUM",
       "location": null,
       "latitude": null,
-      "longitude": null
+      "longitude": null,
+      "section_tag": null
     },
     {
       "id": 11,
@@ -3973,7 +4093,8 @@
       "confidence": "MEDIUM",
       "location": null,
       "latitude": null,
-      "longitude": null
+      "longitude": null,
+      "section_tag": "reception"
     },
     {
       "id": 12,
@@ -3988,7 +4109,8 @@
       "confidence": "MEDIUM",
       "location": "Florence, Italy",
       "latitude": 43.7696,
-      "longitude": 11.2558
+      "longitude": 11.2558,
+      "section_tag": "reception"
     },
     {
       "id": 13,
@@ -4003,7 +4125,8 @@
       "confidence": "MEDIUM",
       "location": "Florence, Italy",
       "latitude": 43.7696,
-      "longitude": 11.2558
+      "longitude": 11.2558,
+      "section_tag": "reception"
     },
     {
       "id": 14,
@@ -4018,7 +4141,8 @@
       "confidence": "MEDIUM",
       "location": "Treviso, Italy",
       "latitude": 45.6669,
-      "longitude": 12.2436
+      "longitude": 12.2436,
+      "section_tag": "reception"
     },
     {
       "id": 15,
@@ -4033,7 +4157,8 @@
       "confidence": "MEDIUM",
       "location": "Rome, Italy",
       "latitude": 41.9028,
-      "longitude": 12.4964
+      "longitude": 12.4964,
+      "section_tag": "reception"
     },
     {
       "id": 16,
@@ -4048,7 +4173,8 @@
       "confidence": "MEDIUM",
       "location": "Florence, Italy",
       "latitude": 43.7696,
-      "longitude": 11.2558
+      "longitude": 11.2558,
+      "section_tag": "reception"
     },
     {
       "id": 17,
@@ -4063,7 +4189,8 @@
       "confidence": "MEDIUM",
       "location": "Sponheim, Germany",
       "latitude": 49.8358,
-      "longitude": 7.9139
+      "longitude": 7.9139,
+      "section_tag": "reception"
     },
     {
       "id": 18,
@@ -4078,7 +4205,8 @@
       "confidence": "MEDIUM",
       "location": "Cologne, Germany",
       "latitude": 50.9333,
-      "longitude": 6.9503
+      "longitude": 6.9503,
+      "section_tag": "reception"
     },
     {
       "id": 19,
@@ -4093,7 +4221,8 @@
       "confidence": "MEDIUM",
       "location": "Würzburg, Germany",
       "latitude": 49.7944,
-      "longitude": 9.9294
+      "longitude": 9.9294,
+      "section_tag": "reception"
     },
     {
       "id": 20,
@@ -4108,7 +4237,8 @@
       "confidence": "MEDIUM",
       "location": "Cologne, Germany",
       "latitude": 50.9333,
-      "longitude": 6.9503
+      "longitude": 6.9503,
+      "section_tag": "reception"
     },
     {
       "id": 21,
@@ -4123,7 +4253,8 @@
       "confidence": "MEDIUM",
       "location": "Naples, Italy",
       "latitude": 40.8518,
-      "longitude": 14.2681
+      "longitude": 14.2681,
+      "section_tag": "reception"
     },
     {
       "id": 22,
@@ -4138,7 +4269,8 @@
       "confidence": "MEDIUM",
       "location": "Marburg, Germany",
       "latitude": 50.8021,
-      "longitude": 8.774
+      "longitude": 8.774,
+      "section_tag": "reception"
     },
     {
       "id": 23,
@@ -4153,7 +4285,8 @@
       "confidence": "MEDIUM",
       "location": "Basel, Switzerland",
       "latitude": 47.5596,
-      "longitude": 7.5886
+      "longitude": 7.5886,
+      "section_tag": "reception"
     },
     {
       "id": 24,
@@ -4168,7 +4301,8 @@
       "confidence": "MEDIUM",
       "location": "Antwerp, Belgium",
       "latitude": 51.2194,
-      "longitude": 4.4025
+      "longitude": 4.4025,
+      "section_tag": "reception"
     },
     {
       "id": 25,
@@ -4183,7 +4317,8 @@
       "confidence": "MEDIUM",
       "location": "Basel, Switzerland",
       "latitude": 47.5596,
-      "longitude": 7.5886
+      "longitude": 7.5886,
+      "section_tag": "reception"
     },
     {
       "id": 26,
@@ -4198,7 +4333,8 @@
       "confidence": "MEDIUM",
       "location": "Mortlake, England",
       "latitude": 51.4688,
-      "longitude": -0.2687
+      "longitude": -0.2687,
+      "section_tag": "reception"
     },
     {
       "id": 27,
@@ -4213,7 +4349,8 @@
       "confidence": "MEDIUM",
       "location": "London, England",
       "latitude": 51.5074,
-      "longitude": -0.1278
+      "longitude": -0.1278,
+      "section_tag": "reception"
     },
     {
       "id": 28,
@@ -4228,7 +4365,8 @@
       "confidence": "MEDIUM",
       "location": "Rome, Italy",
       "latitude": 41.9028,
-      "longitude": 12.4964
+      "longitude": 12.4964,
+      "section_tag": "reception"
     },
     {
       "id": 29,
@@ -4243,7 +4381,8 @@
       "confidence": "MEDIUM",
       "location": "Frankfurt, Germany",
       "latitude": 50.1109,
-      "longitude": 8.6821
+      "longitude": 8.6821,
+      "section_tag": "reception"
     },
     {
       "id": 30,
@@ -4258,7 +4397,8 @@
       "confidence": "MEDIUM",
       "location": "Kassel, Germany",
       "latitude": 51.3127,
-      "longitude": 9.4797
+      "longitude": 9.4797,
+      "section_tag": "reception"
     },
     {
       "id": 31,
@@ -4273,7 +4413,8 @@
       "confidence": "MEDIUM",
       "location": "London, England",
       "latitude": 51.5074,
-      "longitude": -0.1278
+      "longitude": -0.1278,
+      "section_tag": "reception"
     },
     {
       "id": 32,
@@ -4288,7 +4429,8 @@
       "confidence": "MEDIUM",
       "location": "Lyon, France",
       "latitude": 45.764,
-      "longitude": 4.8357
+      "longitude": 4.8357,
+      "section_tag": "reception"
     },
     {
       "id": 33,
@@ -4303,7 +4445,8 @@
       "confidence": "MEDIUM",
       "location": "London, England",
       "latitude": 51.5074,
-      "longitude": -0.1278
+      "longitude": -0.1278,
+      "section_tag": "reception"
     },
     {
       "id": 34,
@@ -4318,7 +4461,8 @@
       "confidence": "MEDIUM",
       "location": "London, England",
       "latitude": 51.5074,
-      "longitude": -0.1278
+      "longitude": -0.1278,
+      "section_tag": "reception"
     },
     {
       "id": 35,
@@ -4333,7 +4477,8 @@
       "confidence": "MEDIUM",
       "location": "London, England",
       "latitude": 51.5074,
-      "longitude": -0.1278
+      "longitude": -0.1278,
+      "section_tag": "reception"
     },
     {
       "id": 36,
@@ -4348,7 +4493,8 @@
       "confidence": "MEDIUM",
       "location": "London, England",
       "latitude": 51.5074,
-      "longitude": -0.1278
+      "longitude": -0.1278,
+      "section_tag": "reception"
     },
     {
       "id": 37,
@@ -4363,7 +4509,8 @@
       "confidence": "MEDIUM",
       "location": "London, England",
       "latitude": 51.5074,
-      "longitude": -0.1278
+      "longitude": -0.1278,
+      "section_tag": "reception"
     },
     {
       "id": 38,
@@ -4378,7 +4525,8 @@
       "confidence": "MEDIUM",
       "location": "Tacoma, United States",
       "latitude": 47.2529,
-      "longitude": -122.4443
+      "longitude": -122.4443,
+      "section_tag": "reception"
     },
     {
       "id": 39,
@@ -4393,7 +4541,8 @@
       "confidence": "MEDIUM",
       "location": "Oxford, England",
       "latitude": 51.752,
-      "longitude": -1.2577
+      "longitude": -1.2577,
+      "section_tag": "reception"
     },
     {
       "id": 40,
@@ -4408,7 +4557,472 @@
       "confidence": "MEDIUM",
       "location": "Washington, United States",
       "latitude": 38.9072,
-      "longitude": -77.0369
+      "longitude": -77.0369,
+      "section_tag": "reception"
+    },
+    {
+      "id": 41,
+      "year": 200,
+      "year_end": 500,
+      "event_type": "COMPOSITION",
+      "title": "Testament of Solomon Compiled",
+      "description": "The Testament of Solomon, a Greek pseudepigraphic text presenting Solomon as a master of demons bound by his divinely-given ring, was compiled somewhere in the eastern Mediterranean — most likely Egypt or Syria — between the second and fifth centuries CE. Drawing on Jewish demonological traditions, Solomonic legend, and early Christian angelology, the text catalogues seventy-two demons, their attributes, and the angelic powers that bind them. It is the foundational document of the Solomonic magical tradition and the earliest systematic demon catalogue in western magical literature. Dennis Duling's translation (Charlesworth, Old Testament Pseudepigrapha, 1983) remains standard.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Alexandria (Egypt)",
+      "latitude": 31.2,
+      "longitude": 29.95,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 42,
+      "year": 700,
+      "year_end": 900,
+      "event_type": "COMPOSITION",
+      "title": "Sepher ha-Razim Compiled",
+      "description": "Sepher ha-Razim (The Book of Mysteries) — a Hebrew magical handbook attributed to Noah and transmitted via the patriarchs to Solomon — was compiled in its surviving form between the seventh and tenth centuries CE, likely in the Babylonian Jewish academies or Palestinian milieu. The text organizes the seven heavens with their angel hierarchies and provides ritual procedures for each celestial realm. Its framework of named angels indexed to planetary and calendrical factors directly influenced the broader Solomonic grimoire tradition. Mordecai Margalioth produced the critical Hebrew edition in 1966; Michael Morgan's English translation appeared in 1983.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Babylonia / Palestine",
+      "latitude": 32.0,
+      "longitude": 35.0,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 43,
+      "year": 850,
+      "year_end": 1000,
+      "event_type": "COMPOSITION",
+      "title": "Solomonic Traditions in Islamic Literature",
+      "description": "The Islamic tradition of Solomon (Sulayman) as a prophet with power over jinn, wind, and all creatures was elaborated in Abbasid Baghdad through Qur'anic exegesis (tafsir), collections of prophetic stories (qisas al-anbiya), and eventually folktale compilations including precursors to the Alf Layla wa Layla (Thousand and One Nights). The Ring of Sulayman — granting command over jinn — became a central motif in Arabic literature. Islamic Solomonic magic (sihr Sulaymaani) developed a parallel grimoire tradition, some of which entered European knowledge through Arabic-to-Latin translation movements in the twelfth century.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Baghdad",
+      "latitude": 33.34,
+      "longitude": 44.44,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 44,
+      "year": 1000,
+      "year_end": 1100,
+      "event_type": "COMPOSITION",
+      "title": "Byzantine Hygromanteia Compiled",
+      "description": "The Hygromanteia — a Greek ritual handbook attributed to Solomon and known in the West as the Magical Treatise of Solomon — was compiled in Byzantine circles between the tenth and twelfth centuries, likely in Constantinople or its scholarly orbit. It systematizes astral magic, angel and demon hierarchies, and ritual procedures within a Solomonic framework, preserving elements of late antique magical tradition that had been partially suppressed in western Latin contexts. The critical edition and translation by Marathakis and Ioannis Marathakis (2011) established the text's relationship to the Latin Clavicula Salomonis as a parallel rather than derivative tradition.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Constantinople",
+      "latitude": 41.01,
+      "longitude": 28.98,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 45,
+      "year": 1150,
+      "year_end": 1220,
+      "event_type": "TRANSLATION",
+      "title": "Solomonic Texts Enter Latin via Toledo and Palermo",
+      "description": "The great translation movements centered on Toledo in Castile and Palermo in Norman Sicily brought Arabic philosophical, astrological, and magical texts into Latin between approximately 1150 and 1220. Among these were Solomonic and pseudo-Aristotelian magical works including material that would eventually crystallize as the Clavicula Salomonis, the Liber Razielis, and the Picatrix. Translators including Gerard of Cremona, Hermann the German, and Michael Scot worked in both cities, creating the Latin learned magical corpus that dominated manuscript culture through the fifteenth century.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Toledo",
+      "latitude": 39.86,
+      "longitude": -4.03,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 46,
+      "year": 1225,
+      "year_end": 1240,
+      "event_type": "SCHOLARSHIP",
+      "title": "William of Auvergne Condemns Solomonic Arts",
+      "description": "William of Auvergne, bishop of Paris from 1228, composed De universo and De legibus in the 1230s, providing the most systematic scholastic critique of Solomonic and demonic magic in the period. William distinguished carefully between operations that claimed natural causation and those that required demonic cooperation, condemning the latter as diabolical regardless of their invocation of Solomonic or biblical authority. His analysis was foundational for later scholastic treatments, anticipating Aquinas's framework and directly influencing the tradition of university-level classification of magic that culminated in the fifteenth-century witchcraft debates.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Paris",
+      "latitude": 48.85,
+      "longitude": 2.35,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 47,
+      "year": 1250,
+      "year_end": 1320,
+      "event_type": "COMPOSITION",
+      "title": "Clavicula Salomonis Circulates in Latin Manuscripts",
+      "description": "Latin manuscripts of the Clavicula Salomonis (Key of Solomon) circulated in French and Parisian contexts from the mid-thirteenth century, alongside the Ars Notoria, Liber Juratus, and other Solomonic ritual texts. The Clavicula presents elaborate procedures for conjuring spirits, constructing pentacles, and operating within a ritual framework derived from Solomonic pseudepigraphic authority. Its manuscript families — Italian, French, and later English — show significant variance, suggesting ongoing compilation and revision rather than stable textual transmission. Richard Kieckhefer's Forbidden Rites (1997) and Frank Klaassen's Transformations of Magic (2013) analyze this circulation as evidence of a persistent clerical interest in learned ritual magic.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Paris",
+      "latitude": 48.85,
+      "longitude": 2.35,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 48,
+      "year": 1300,
+      "year_end": 1350,
+      "event_type": "COMPOSITION",
+      "title": "Liber Razielis at the Aragonese Court",
+      "description": "The Liber Razielis — a massive compilation of Solomonic and angelic magic attributed to the angel Raziel and compiled in Latin from Hebrew and Arabic sources — circulated at the Aragonese court of Naples in the early fourteenth century. A copy was produced for King Alfonso X of Castile in the thirteenth century, and the text continued to be copied and expanded in aristocratic contexts. Its presence at the Neapolitan court reflects the patronage of learned magic by secular rulers who sought access to Solomonic angelic knowledge for astrological, protective, and practical ends.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Naples",
+      "latitude": 40.85,
+      "longitude": 14.27,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 49,
+      "year": 1456,
+      "year_end": null,
+      "event_type": "SCHOLARSHIP",
+      "title": "Hartlieb Classifies Solomonic Arts Among Forbidden Practices",
+      "description": "Johannes Hartlieb's Buch aller verbotenen Kunst (1456), written for Duke Albrecht III of Bavaria, includes Solomonic ceremonial magic among the eight forbidden arts alongside geomancy, chiromancy, and necromancy. Hartlieb describes the ritual framework — fasting, consecrated implements, spirit names — without providing actual procedures, and condemns the entire tradition as demonic regardless of its claimed Solomonic authority. His classification is an important vernacular index of what educated late medieval German readers understood 'Solomonic magic' to encompass, and demonstrates that the authority of Solomon's name did not protect its attributees from condemnation.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Munich",
+      "latitude": 48.14,
+      "longitude": 11.58,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 50,
+      "year": 1641,
+      "year_end": 1692,
+      "event_type": "SCHOLARSHIP",
+      "title": "Elias Ashmole Collects Solomonic Manuscripts",
+      "description": "Elias Ashmole (1617–1692), astrologer, antiquary, and founding benefactor of the Ashmolean Museum, assembled one of the most significant collections of English magical manuscripts, now preserved as the Ashmole manuscripts at the Bodleian Library. His collection includes copies of the Ars Notoria, Key of Solomon variants, astrological and alchemical compilations, and working magical notebooks documenting astrological and Solomonic practice. Ashmole's collecting activity shows how Solomonic manuscript culture persisted alongside the emerging natural philosophy of the mid-seventeenth century, complicating any simple narrative of magical decline after the Scientific Revolution.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Oxford",
+      "latitude": 51.75,
+      "longitude": -1.26,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 51,
+      "year": 1888,
+      "year_end": null,
+      "event_type": "EDITION",
+      "title": "Mathers Publishes The Key of Solomon the King",
+      "description": "Samuel Liddell MacGregor Mathers published The Key of Solomon the King (George Redway, London, 1888), translated from five manuscripts in the British Museum and Bibliothèque nationale de France. Mathers's edition was the first widely available English translation of the Clavicula Salomonis tradition and defined how the text was understood by the Victorian occult revival, the Hermetic Order of the Golden Dawn, and twentieth-century ceremonial magic. Owen Davies (Grimoires, 2009) and Joseph Peterson's critical online edition (2004) have since documented significant divergences between Mathers's translation and the manuscript sources, showing that Mathers edited and regularized the text substantially.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "London",
+      "latitude": 51.51,
+      "longitude": -0.13,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 52,
+      "year": 1914,
+      "year_end": null,
+      "event_type": "EDITION",
+      "title": "Gollancz Edits Hebrew Key of Solomon",
+      "description": "Herman Gollancz published Mafteah Shelomoh: A Book of the Art of Solomon (Oxford University Press for the Oriental Translation Fund, 1914), a facsimile and edition of British Museum MS Oriental 14759, the most complete surviving Hebrew manuscript of the Key of Solomon. Gollancz's edition established that a Hebrew recension of the Clavicula Salomonis tradition existed independently of the Latin manuscript families, with its own distinct ritual procedures and textual organization. The relationship between Hebrew and Latin Solomonic texts remains a central question in Solomonic scholarship: whether Hebrew versions preceded or derived from Latin ones bears on the question of whether the tradition originated in Jewish or Christian clerical milieu.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "London",
+      "latitude": 51.51,
+      "longitude": -0.13,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 53,
+      "year": 1983,
+      "year_end": null,
+      "event_type": "EDITION",
+      "title": "Duling Translates Testament of Solomon (OTP)",
+      "description": "Dennis Duling's annotated English translation of the Testament of Solomon, published in James Charlesworth's Old Testament Pseudepigrapha vol. 1 (Doubleday, 1983), brought the text to the attention of mainstream biblical studies and studies of early Judaism and Christianity. Duling argued for a first-century provenance, Christian authorship with Jewish sources, and Palestinian or Syrian origin. His introduction addressed the text's complex manuscript tradition (MSS A, B, and C groups) and its demonological system. The translation enabled comparative work on Solomonic demonology across Testament of Solomon, Sepher ha-Razim, and the later Latin Clavicula Salomonis tradition.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Cambridge, UK",
+      "latitude": 52.21,
+      "longitude": 0.12,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 54,
+      "year": 2002,
+      "year_end": null,
+      "event_type": "SCHOLARSHIP",
+      "title": "Torijano: Solomon the Esoteric King",
+      "description": "Pablo Torijano's Solomon the Esoteric King: From King to Magus, Development of a Tradition (Brill, Leiden, 2002) provided the first comprehensive cross-cultural study of the Solomonic magical tradition from its Second Temple origins through medieval Islam. Torijano traced how the biblical Solomon became progressively invested with esoteric authority — master of demons, possessor of divine secrets, heir of Adam's occult knowledge — across Jewish pseudepigrapha, early Christian literature, Qur'anic exegesis, and Islamic magical texts. The book established that Solomonic attribution was a dynamic, multilingual strategy rather than a static medieval convention.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Leiden",
+      "latitude": 52.16,
+      "longitude": 4.49,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 55,
+      "year": 2008,
+      "year_end": null,
+      "event_type": "SCHOLARSHIP",
+      "title": "Bohak: Ancient Jewish Magic",
+      "description": "Gideon Bohak's Ancient Jewish Magic: A History (Cambridge University Press, 2008) provided the most comprehensive account of Jewish magical practice from the biblical period through the rabbinic era, drawing on amulets, incantation bowls, magical papyri, and textual evidence. Bohak argued that Jewish magic was a coherent and distinctively Jewish tradition — not merely a borrowing from Egyptian or Greco-Roman practice — and that it fed substantially into Christian and Islamic magical traditions. The book is essential background for understanding the pre-history of the Solomonic grimoire corpus: the angel hierarchies, divine name manipulation, and adjuration formulas of Jewish magical texts became the raw material of the medieval Clavicula Salomonis and its cognates.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Cambridge, UK",
+      "latitude": 52.21,
+      "longitude": 0.12,
+      "section_tag": "solomonic"
+    },
+    {
+      "id": 56,
+      "year": 415,
+      "year_end": 426,
+      "event_type": "COMPOSITION",
+      "title": "Augustine Writes City of God: Foundational Demonology",
+      "description": "Augustine of Hippo composed De civitate Dei (City of God) in the years following the sack of Rome (410), completing it around 426. Books VIII through X contain the foundational Christian demonological framework that shaped all subsequent medieval scholastic engagement with magic. Augustine argued that demons are real spiritual beings capable of causing apparent wonders, that all pagan religion was effectively demonic, and that any traffic with demons — including the theurgic practices of Neoplatonism — was illicit regardless of the practitioner's intent. His distinction between true miracles (divine) and demonic wonders (trickery or limited natural power) provided scholastic thinkers from William of Auvergne to Thomas Aquinas with their basic conceptual vocabulary.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Hippo Regius (Annaba, Algeria)",
+      "latitude": 36.9,
+      "longitude": 7.77,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 57,
+      "year": 623,
+      "year_end": 636,
+      "event_type": "COMPOSITION",
+      "title": "Isidore of Seville's Etymologiae: Classification of the Magical Arts",
+      "description": "Isidore of Seville completed his Etymologiae (Originum libri XX) around 623–636, providing the classification of magic that dominated medieval encyclopedic thought for six centuries. Book VIII, chapter 9 treats malefici, mathematici, astrologi, haruspices, augures, pythones, magi, and necromancers as a taxonomy of forbidden arts, tracing each term etymologically and morally. Book III treats astronomy and its relation to astrology. Isidore's treatment is foundational: medieval authors from Rabanus Maurus to Thomas Aquinas drew directly on his categories. Richard Kieckhefer and Michael Bailey both identify the Etymologiae as the starting point for any history of medieval magic classification.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Seville",
+      "latitude": 37.39,
+      "longitude": -5.99,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 58,
+      "year": 1230,
+      "year_end": 1240,
+      "event_type": "COMPOSITION",
+      "title": "William of Auvergne's De universo and De legibus",
+      "description": "William of Auvergne, bishop of Paris from 1228, composed De universo and De legibus in the 1230s — the most systematic scholastic analysis of natural magic, astral influence, and demonic operations before Aquinas. William distinguished sharply between natural powers (admissible) and demonic cooperation (always forbidden), condemned image magic as necessarily demonic, and attacked Aristotelian and Arabic authority when it seemed to validate magical causation. His treatment of the imagination, of stellar influence on terrestrial matter, and of the psychology of enchantment introduced categories that Aquinas would refine. Nicolas Weill-Parot treats William as the key transition figure between twelfth-century natural philosophy and thirteenth-century scholastic demonology.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Paris",
+      "latitude": 48.85,
+      "longitude": 2.35,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 59,
+      "year": 1248,
+      "year_end": 1264,
+      "event_type": "COMPOSITION",
+      "title": "Albertus Magnus on Natural Powers and Magical Images",
+      "description": "Albertus Magnus composed his major natural philosophical works — including De mineralibus (c.1262), De animalibus, and the Speculum astronomiae (attribution debated) — at Cologne, Paris, and in the Dominican studium generale during the 1240s–1260s. These texts treated the occult properties of stones, the influence of stars on terrestrial matter, and the conditions under which astrological image-making could be licit or illicit. The Speculum astronomiae distinguished legitimate astrological image magic (operating through natural celestial causes) from demonic necromancy (requiring demonic aid). Weill-Parot's analysis of the Speculum and Nicolas Weill-Parot's work on De mineralibus identify Albert as the crucial scholastic defender of a naturalized version of image magic.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Cologne",
+      "latitude": 50.93,
+      "longitude": 6.95,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 60,
+      "year": 1266,
+      "year_end": 1268,
+      "event_type": "COMPOSITION",
+      "title": "Roger Bacon's Opus Majus and Experimental Philosophy",
+      "description": "Roger Bacon composed the Opus Majus, Opus Minus, and Opus Tertium for Pope Clement IV in 1266–1268, arguing for an experimental philosophy (scientia experimentalis) that could unlock the secrets of nature including the prolongation of life, the making of burning mirrors, and the production of apparent wonders through natural means. Bacon's earlier Epistola de secretis operibus artis et naturae (c.1248) had similarly defended operations that appeared magical as products of natural science. His distinction between legitimate natural experiment and illicit demonic magic was more permissive than Aquinas's: Bacon allowed a wide range of apparently wondrous operations to fall within natural philosophy's domain.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Oxford",
+      "latitude": 51.75,
+      "longitude": -1.26,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 61,
+      "year": 1265,
+      "year_end": 1274,
+      "event_type": "COMPOSITION",
+      "title": "Aquinas's Summa theologiae: Systematic Treatment of Magic",
+      "description": "Thomas Aquinas composed the Summa theologiae in stages at Paris, Rome, and Naples between 1265 and 1274, producing the most influential scholastic synthesis of theology and natural philosophy. The Secunda secundae (questions 92–96) provides a detailed taxonomy of superstition, idolatry, divination, and magic, grounding each category in either implicit or explicit demonic pact. Aquinas accepted that demons have real but limited causal powers, that celestial bodies genuinely influence terrestrial matter (though not the intellective soul), and that apparent wonders not explainable by natural causes necessarily involve demonic agency. His framework defined the orthodox scholastic position and was referenced by virtually every subsequent medieval treatment of magic, from university condemnations to inquisitorial manuals.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Paris",
+      "latitude": 48.85,
+      "longitude": 2.35,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 62,
+      "year": 1270,
+      "year_end": null,
+      "event_type": "CONDEMNATION",
+      "title": "Tempier's First Paris Condemnation (13 Theses)",
+      "description": "Bishop Étienne Tempier of Paris issued his first condemnation in 1270, targeting thirteen Averroist theses taught at the University of Paris, including the eternity of the world, the unity of the intellect, and the necessary determination of the will by external causes. Several condemned propositions bore on magic: the claim that celestial bodies necessarily determine terrestrial events was directly relevant to astrological determinism. The condemnation targeted the logical extremes of Aristotelian natural philosophy — positions that, if accepted, would have made astrological magic a form of natural science rather than demonic art.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Paris",
+      "latitude": 48.85,
+      "longitude": 2.35,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 63,
+      "year": 1277,
+      "year_end": null,
+      "event_type": "CONDEMNATION",
+      "title": "Tempier's 219 Condemnations: Defining Scholastic Limits",
+      "description": "On 7 March 1277, Bishop Étienne Tempier condemned 219 philosophical and theological propositions taught at the University of Paris, on the orders of Pope John XXI. The condemned theses included astrological determinism, the necessity of natural processes, and the power of images and words to produce natural effects. Propositions 166–171 specifically addressed magic and images: they condemned the claim that engraved images have power through the configuration of celestial bodies (the position the Speculum astronomiae tried to defend). The 1277 condemnations reshaped the intellectual landscape of natural magic for a generation and drove subsequent defenses of image magic (like Cecco d'Ascoli's and Pietro d'Abano's) into increasingly dangerous territory.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Paris",
+      "latitude": 48.85,
+      "longitude": 2.35,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 64,
+      "year": 1303,
+      "year_end": 1310,
+      "event_type": "COMPOSITION",
+      "title": "Pietro d'Abano's Conciliator: Reconciling Medicine and Astrology",
+      "description": "Pietro d'Abano composed the Conciliator differentiarum at Padua around 1303–1310, attempting to harmonize Aristotelian natural philosophy, Galenic medicine, and Arabic astrological medicine. The Conciliator includes extended defenses of astral determinism and of the medical efficacy of suffumigations and incantations, claiming natural rather than demonic causes for their effects. Pietro also composed the Lucidator dubitabilium astronomiae, which treats astrological image magic as a form of natural science. His naturalistic defense of magical operations put him in direct conflict with post-1277 orthodoxy: he was tried by the Inquisition at least twice, and his works were condemned posthumously.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Padua",
+      "latitude": 45.41,
+      "longitude": 11.88,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 65,
+      "year": 1315,
+      "year_end": 1317,
+      "event_type": "CONDEMNATION",
+      "title": "Pietro d'Abano Tried by Inquisition at Padua",
+      "description": "Pietro d'Abano was tried by the Inquisition at Padua on charges of heresy and magic, including the claim that he performed wonders through demonic arts and that his astrological determinism denied free will. He died around 1316–1318, probably before the verdict was delivered; he was subsequently condemned in absentia and his body was ordered burned (reportedly his friends had already buried him and burned an effigy). Pietro's case illustrates the institutional danger faced by scholastic naturalists who pushed the limits of licit natural magic, and the difficulty of defending astrological determinism against the 1277 condemnations.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Padua",
+      "latitude": 45.41,
+      "longitude": 11.88,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 66,
+      "year": 1327,
+      "year_end": null,
+      "event_type": "CONDEMNATION",
+      "title": "Cecco d'Ascoli Burned for Magical Heresy at Florence",
+      "description": "Francesco degli Stabili, known as Cecco d'Ascoli, was burned at the stake in Florence on 16 September 1327 — one of the earliest executions of a scholastic natural philosopher for the crime of magical heresy. Cecco had taught astrology at Bologna and composed the L'Acerba, a vernacular encyclopedia defending strong astral determinism. His condemnation rested on claims that he had prophesied the horoscope of Christ as that of a criminal condemned to crucifixion and that he had taught spirits and demons as natural forces. His case shows that the post-1277 institutional climate could convert scholastic naturalism into capital heresy.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Florence",
+      "latitude": 43.77,
+      "longitude": 11.26,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 67,
+      "year": 1363,
+      "year_end": 1380,
+      "event_type": "COMPOSITION",
+      "title": "Nicole Oresme Critiques Astrology and Divination",
+      "description": "Nicole Oresme, master of theology at the University of Paris and later bishop of Lisieux, composed a series of works critiquing astrology and divination in French and Latin: the Livre de divinacions (c.1361), Quaestio contra divinatores, and treatises on commensurability and celestial motion. Oresme argued that astrological prediction was epistemically impossible because celestial motions are likely incommensurable with each other, making exact periodicity calculations unattainable. His mathematical critiques undercut the foundation of astrological determinism from within natural philosophy and represented the most rigorous scholastic skepticism about astrology before the sixteenth century. Michael Bailey and Lynn Thorndike both treat Oresme as the culmination of medieval scholastic rationalism applied to magic.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Paris",
+      "latitude": 48.85,
+      "longitude": 2.35,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 68,
+      "year": 1487,
+      "year_end": null,
+      "event_type": "PUBLICATION",
+      "title": "Malleus Maleficarum Printed at Speyer",
+      "description": "Heinrich Kramer (Institoris) published the Malleus Maleficarum (Hammer of Witches) at Speyer in 1487, the most influential late-medieval synthesis of scholastic demonology and inquisitorial practice. The Malleus applied Thomistic demonological principles — real demonic power, the witch's pact, and the reality of maleficium — to the prosecution of women accused of witchcraft, arguing for the reality of night-flight, the sabbath, and demonic copulation. Though not universally accepted by scholastic contemporaries (many rejected its specific claims as unorthodox), the Malleus shows how scholastic frameworks for understanding demonic causation could be weaponized in judicial contexts. Michael Bailey's Battling Demons (2003) provides the best recent analysis.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "Speyer",
+      "latitude": 49.32,
+      "longitude": 8.44,
+      "section_tag": "scholasticism"
+    },
+    {
+      "id": 69,
+      "year": 1923,
+      "year_end": 1958,
+      "event_type": "SCHOLARSHIP",
+      "title": "Thorndike's History of Magic and Experimental Science",
+      "description": "Lynn Thorndike published A History of Magic and Experimental Science in eight volumes between 1923 and 1958 (Columbia University Press), the most comprehensive documentary survey of scholastic magic, astrology, and natural philosophy in medieval Latin sources. Thorndike treated magic and experimental science as aspects of a single intellectual tradition, arguing against the sharp separation of rational from magical thought in medieval culture. His work made accessible thousands of manuscript texts on astrology, alchemy, divination, and natural magic, providing the empirical foundation for all later scholarship including Kieckhefer, Fanger, Klaassen, and Weill-Parot. Despite its age, HMES remains an indispensable reference for medieval scholastic magical literature.",
+      "person_id": null,
+      "text_id": null,
+      "bib_id": null,
+      "confidence": "HIGH",
+      "location": "New York",
+      "latitude": 40.71,
+      "longitude": -74.01,
+      "section_tag": "scholasticism"
     }
   ]
 }
