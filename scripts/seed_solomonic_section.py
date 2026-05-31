@@ -150,7 +150,7 @@ def seed_texts(conn):
             "title": "Sepher ha-Razim",
             "text_type": "PRIMARY_SOURCE",
             "period": "LATE_ANTIQUE",
-            "language": "Hebrew",
+            "language": "HEBREW",
             "description": (
                 "The Book of Mysteries (Sepher ha-Razim) is a Hebrew magical handbook "
                 "whose compilation is usually dated to the 7th–10th century CE, though "
@@ -167,9 +167,9 @@ def seed_texts(conn):
         {
             "text_id": "solomon_esoteric_king",
             "title": "Solomon the Esoteric King",
-            "text_type": "MONOGRAPH",
+            "text_type": "SCHOLARSHIP",
             "period": "MODERN",
-            "language": "English",
+            "language": "ENGLISH",
             "description": (
                 "Pablo Torijano's Solomon the Esoteric King: From King to Magus, "
                 "Development of a Tradition (Brill, 2002) traces the transformation "
@@ -185,9 +185,9 @@ def seed_texts(conn):
         {
             "text_id": "ancient_jewish_magic",
             "title": "Ancient Jewish Magic: A History",
-            "text_type": "MONOGRAPH",
+            "text_type": "SCHOLARSHIP",
             "period": "MODERN",
-            "language": "English",
+            "language": "ENGLISH",
             "description": (
                 "Gideon Bohak's Ancient Jewish Magic: A History (Cambridge University "
                 "Press, 2008) surveys Jewish magical practice from the biblical period "
@@ -205,7 +205,7 @@ def seed_texts(conn):
             "title": "Old Testament Pseudepigrapha, Volume 1",
             "text_type": "EDITION",
             "period": "MODERN",
-            "language": "English",
+            "language": "ENGLISH",
             "description": (
                 "James H. Charlesworth's Old Testament Pseudepigrapha, Volume 1 "
                 "(Doubleday, 1983) contains Dennis Duling's annotated English "
@@ -222,7 +222,7 @@ def seed_texts(conn):
             "title": "Mafteah Shelomoh",
             "text_type": "PRIMARY_SOURCE",
             "period": "MEDIEVAL",
-            "language": "Hebrew",
+            "language": "HEBREW",
             "description": (
                 "The Mafteah Shelomoh (Key of Solomon in Hebrew) survives in several "
                 "medieval and early modern manuscripts, of which the most significant "
@@ -241,7 +241,7 @@ def seed_texts(conn):
             "title": "Summa theologiae",
             "text_type": "PRIMARY_SOURCE",
             "period": "MEDIEVAL",
-            "language": "Latin",
+            "language": "LATIN",
             "description": (
                 "Thomas Aquinas's Summa theologiae (c. 1265–1274), composed at Paris, "
                 "Naples, and Rome, contains the most systematic scholastic treatment "
@@ -271,7 +271,7 @@ def seed_concepts(conn):
             "slug": "ring_of_solomon",
             "label": "Ring of Solomon",
             "category_type": "ACTOR_TERM",
-            "category": "MAGIC",
+            "category": "DEMONOLOGICAL",
             "definition_short": (
                 "Actor Term. The signet ring with which Solomon was said to bind, "
                 "seal, and control demons, appearing in the Testament of Solomon and "
@@ -301,7 +301,7 @@ def seed_concepts(conn):
             "slug": "solomonic_authority",
             "label": "Solomonic Authority",
             "category_type": "ANALYST_TERM",
-            "category": "HISTORIOGRAPHY",
+            "category": "HISTORIOGRAPHICAL",
             "definition_short": (
                 "Analyst Term. The legitimating strategy by which magical texts "
                 "attribute their contents to Solomon, thereby claiming royal, "
@@ -317,7 +317,7 @@ def seed_concepts(conn):
             "slug": "spirit_catalogue",
             "label": "Spirit Catalogue",
             "category_type": "ANALYST_TERM",
-            "category": "GENRE",
+            "category": "DEMONOLOGICAL",
             "definition_short": (
                 "Analyst Term. A structured list or hierarchy of named demons, "
                 "angels, or spirits with their ranks, attributes, seals, and "
@@ -334,7 +334,7 @@ def seed_concepts(conn):
             "slug": "pentacle_magic",
             "label": "Pentacles and Magical Figures",
             "category_type": "HYBRID",
-            "category": "RITUAL_OBJECT",
+            "category": "RITUAL",
             "definition_short": (
                 "Hybrid Term. In the Solomonic grimoire tradition, pentacles "
                 "(also called lamens, sigils, or seals) are geometric or symbolic "
