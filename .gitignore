@@ -4,3 +4,4 @@ db/*.db-journal
 db/*.db-wal
 db/*.db-shm
 sources/markdown/*.tmp
+.claude/
